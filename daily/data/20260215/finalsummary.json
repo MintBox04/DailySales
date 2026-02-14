@@ -1,63 +1,63 @@
 {
-  "last_updated": "2026-02-15 04:24 IST",
+  "last_updated": "2026-02-15 04:40 IST",
   "movies": {
-    "Mardaani 3": {
-      "shows": 2,
-      "gross": 4909.0,
-      "sold": 21,
-      "totalSeats": 768,
-      "venues": 2,
+    "Manasantha Nuvve": {
+      "shows": 1,
+      "gross": 12570.0,
+      "sold": 140,
+      "totalSeats": 845,
+      "venues": 1,
       "cities": 1,
       "fastfilling": 0,
       "housefull": 0,
-      "occupancy": 2.73,
+      "occupancy": 16.57,
       "City_details": [
         {
-          "city": "Mumbai",
-          "state": "Maharashtra",
-          "venues": 2,
-          "shows": 2,
-          "gross": 4909.0,
-          "sold": 21,
-          "totalSeats": 768,
+          "city": "Hyderabad",
+          "state": "Telangana",
+          "venues": 1,
+          "shows": 1,
+          "gross": 12570.0,
+          "sold": 140,
+          "totalSeats": 845,
           "fastfilling": 0,
           "housefull": 0,
-          "occupancy": 2.73
+          "occupancy": 16.57
         }
       ],
       "Language_details": [
         {
-          "language": "HINDI",
-          "venues": 2,
-          "shows": 2,
-          "gross": 4909.0,
-          "sold": 21,
-          "totalSeats": 768,
+          "language": "TELUGU",
+          "venues": 1,
+          "shows": 1,
+          "gross": 12570.0,
+          "sold": 140,
+          "totalSeats": 845,
           "fastfilling": 0,
           "housefull": 0,
-          "occupancy": 2.73
+          "occupancy": 16.57
         }
       ],
       "Format_details": [
         {
           "dimension": "2D",
-          "venues": 2,
-          "shows": 2,
-          "gross": 4909.0,
-          "sold": 21,
-          "totalSeats": 768,
+          "venues": 1,
+          "shows": 1,
+          "gross": 12570.0,
+          "sold": 140,
+          "totalSeats": 845,
           "fastfilling": 0,
           "housefull": 0,
-          "occupancy": 2.73
+          "occupancy": 16.57
         }
       ]
     },
-    "O'Romeo": {
-      "shows": 1,
+    "Mardaani 3": {
+      "shows": 2,
       "gross": 0.0,
       "sold": 0,
-      "totalSeats": 238,
-      "venues": 1,
+      "totalSeats": 768,
+      "venues": 2,
       "cities": 1,
       "fastfilling": 0,
       "housefull": 0,
@@ -66,11 +66,11 @@
         {
           "city": "Mumbai",
           "state": "Maharashtra",
-          "venues": 1,
-          "shows": 1,
+          "venues": 2,
+          "shows": 2,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 238,
+          "totalSeats": 768,
           "fastfilling": 0,
           "housefull": 0,
           "occupancy": 0.0
@@ -79,11 +79,11 @@
       "Language_details": [
         {
           "language": "HINDI",
-          "venues": 1,
-          "shows": 1,
+          "venues": 2,
+          "shows": 2,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 238,
+          "totalSeats": 768,
           "fastfilling": 0,
           "housefull": 0,
           "occupancy": 0.0
@@ -92,6 +92,31 @@
       "Format_details": [
         {
           "dimension": "2D",
+          "venues": 2,
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 768,
+          "fastfilling": 0,
+          "housefull": 0,
+          "occupancy": 0.0
+        }
+      ]
+    },
+    "O' Romeo": {
+      "shows": 2,
+      "gross": 1260.0,
+      "sold": 7,
+      "totalSeats": 423,
+      "venues": 2,
+      "cities": 2,
+      "fastfilling": 0,
+      "housefull": 0,
+      "occupancy": 1.65,
+      "City_details": [
+        {
+          "city": "Mumbai",
+          "state": "Maharashtra",
           "venues": 1,
           "shows": 1,
           "gross": 0.0,
@@ -100,6 +125,107 @@
           "fastfilling": 0,
           "housefull": 0,
           "occupancy": 0.0
+        },
+        {
+          "city": "Nashik",
+          "state": "Maharashtra",
+          "venues": 1,
+          "shows": 1,
+          "gross": 1260.0,
+          "sold": 7,
+          "totalSeats": 185,
+          "fastfilling": 0,
+          "housefull": 0,
+          "occupancy": 3.78
+        }
+      ],
+      "Language_details": [
+        {
+          "language": "HINDI",
+          "venues": 2,
+          "shows": 2,
+          "gross": 1260.0,
+          "sold": 7,
+          "totalSeats": 423,
+          "fastfilling": 0,
+          "housefull": 0,
+          "occupancy": 1.65
+        }
+      ],
+      "Format_details": [
+        {
+          "dimension": "2D",
+          "venues": 2,
+          "shows": 2,
+          "gross": 1260.0,
+          "sold": 7,
+          "totalSeats": 423,
+          "fastfilling": 0,
+          "housefull": 0,
+          "occupancy": 1.65
+        }
+      ]
+    },
+    "O'Romeo": {
+      "shows": 4,
+      "gross": 2880.0,
+      "sold": 14,
+      "totalSeats": 510,
+      "venues": 4,
+      "cities": 2,
+      "fastfilling": 0,
+      "housefull": 0,
+      "occupancy": 2.75,
+      "City_details": [
+        {
+          "city": "Ahmedabad",
+          "state": "Gujarat",
+          "venues": 2,
+          "shows": 2,
+          "gross": 1500.0,
+          "sold": 5,
+          "totalSeats": 49,
+          "fastfilling": 0,
+          "housefull": 0,
+          "occupancy": 10.2
+        },
+        {
+          "city": "Mumbai",
+          "state": "Maharashtra",
+          "venues": 2,
+          "shows": 2,
+          "gross": 1380.0,
+          "sold": 9,
+          "totalSeats": 461,
+          "fastfilling": 0,
+          "housefull": 0,
+          "occupancy": 1.95
+        }
+      ],
+      "Language_details": [
+        {
+          "language": "HINDI",
+          "venues": 4,
+          "shows": 4,
+          "gross": 2880.0,
+          "sold": 14,
+          "totalSeats": 510,
+          "fastfilling": 0,
+          "housefull": 0,
+          "occupancy": 2.75
+        }
+      ],
+      "Format_details": [
+        {
+          "dimension": "2D",
+          "venues": 4,
+          "shows": 4,
+          "gross": 2880.0,
+          "sold": 14,
+          "totalSeats": 510,
+          "fastfilling": 0,
+          "housefull": 0,
+          "occupancy": 2.75
         }
       ]
     }
