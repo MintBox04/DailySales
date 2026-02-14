@@ -1,4 +1,107 @@
 {
-  "last_updated": "2026-02-15 03:37 IST",
-  "movies": {}
+  "last_updated": "2026-02-15 04:24 IST",
+  "movies": {
+    "Mardaani 3": {
+      "shows": 2,
+      "gross": 4909.0,
+      "sold": 21,
+      "totalSeats": 768,
+      "venues": 2,
+      "cities": 1,
+      "fastfilling": 0,
+      "housefull": 0,
+      "occupancy": 2.73,
+      "City_details": [
+        {
+          "city": "Mumbai",
+          "state": "Maharashtra",
+          "venues": 2,
+          "shows": 2,
+          "gross": 4909.0,
+          "sold": 21,
+          "totalSeats": 768,
+          "fastfilling": 0,
+          "housefull": 0,
+          "occupancy": 2.73
+        }
+      ],
+      "Language_details": [
+        {
+          "language": "HINDI",
+          "venues": 2,
+          "shows": 2,
+          "gross": 4909.0,
+          "sold": 21,
+          "totalSeats": 768,
+          "fastfilling": 0,
+          "housefull": 0,
+          "occupancy": 2.73
+        }
+      ],
+      "Format_details": [
+        {
+          "dimension": "2D",
+          "venues": 2,
+          "shows": 2,
+          "gross": 4909.0,
+          "sold": 21,
+          "totalSeats": 768,
+          "fastfilling": 0,
+          "housefull": 0,
+          "occupancy": 2.73
+        }
+      ]
+    },
+    "O'Romeo": {
+      "shows": 1,
+      "gross": 0.0,
+      "sold": 0,
+      "totalSeats": 238,
+      "venues": 1,
+      "cities": 1,
+      "fastfilling": 0,
+      "housefull": 0,
+      "occupancy": 0.0,
+      "City_details": [
+        {
+          "city": "Mumbai",
+          "state": "Maharashtra",
+          "venues": 1,
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 238,
+          "fastfilling": 0,
+          "housefull": 0,
+          "occupancy": 0.0
+        }
+      ],
+      "Language_details": [
+        {
+          "language": "HINDI",
+          "venues": 1,
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 238,
+          "fastfilling": 0,
+          "housefull": 0,
+          "occupancy": 0.0
+        }
+      ],
+      "Format_details": [
+        {
+          "dimension": "2D",
+          "venues": 1,
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 238,
+          "fastfilling": 0,
+          "housefull": 0,
+          "occupancy": 0.0
+        }
+      ]
+    }
+  }
 }
