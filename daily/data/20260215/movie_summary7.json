@@ -1,15 +1,27 @@
 {
   "O' Romeo": {
-    "shows": 1,
-    "gross": 1260.0,
-    "sold": 7,
-    "totalSeats": 185,
-    "venues": 1,
-    "cities": 1,
+    "shows": 3,
+    "gross": 2240.0,
+    "sold": 13,
+    "totalSeats": 442,
+    "venues": 3,
+    "cities": 2,
     "fastfilling": 0,
     "housefull": 0,
-    "occupancy": 3.78,
+    "occupancy": 2.94,
     "City_details": [
+      {
+        "city": "Ahilyanagar (Ahmednagar)",
+        "state": "Maharashtra",
+        "venues": 2,
+        "shows": 2,
+        "gross": 980.0,
+        "sold": 6,
+        "totalSeats": 257,
+        "fastfilling": 0,
+        "housefull": 0,
+        "occupancy": 2.33
+      },
       {
         "city": "Nashik",
         "state": "Maharashtra",
@@ -26,14 +38,65 @@
     "Language_details": [
       {
         "language": "Hindi",
-        "venues": 1,
-        "shows": 1,
-        "gross": 1260.0,
-        "sold": 7,
-        "totalSeats": 185,
+        "venues": 3,
+        "shows": 3,
+        "gross": 2240.0,
+        "sold": 13,
+        "totalSeats": 442,
         "fastfilling": 0,
         "housefull": 0,
-        "occupancy": 3.78
+        "occupancy": 2.94
+      }
+    ],
+    "Format_details": [
+      {
+        "dimension": "2D",
+        "venues": 3,
+        "shows": 3,
+        "gross": 2240.0,
+        "sold": 13,
+        "totalSeats": 442,
+        "fastfilling": 0,
+        "housefull": 0,
+        "occupancy": 2.94
+      }
+    ]
+  },
+  "Border 2": {
+    "shows": 1,
+    "gross": 0.0,
+    "sold": 0,
+    "totalSeats": 68,
+    "venues": 1,
+    "cities": 1,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 0.0,
+    "City_details": [
+      {
+        "city": "Ahilyanagar (Ahmednagar)",
+        "state": "Maharashtra",
+        "venues": 1,
+        "shows": 1,
+        "gross": 0.0,
+        "sold": 0,
+        "totalSeats": 68,
+        "fastfilling": 0,
+        "housefull": 0,
+        "occupancy": 0.0
+      }
+    ],
+    "Language_details": [
+      {
+        "language": "Hindi",
+        "venues": 1,
+        "shows": 1,
+        "gross": 0.0,
+        "sold": 0,
+        "totalSeats": 68,
+        "fastfilling": 0,
+        "housefull": 0,
+        "occupancy": 0.0
       }
     ],
     "Format_details": [
@@ -41,12 +104,12 @@
         "dimension": "2D",
         "venues": 1,
         "shows": 1,
-        "gross": 1260.0,
-        "sold": 7,
-        "totalSeats": 185,
+        "gross": 0.0,
+        "sold": 0,
+        "totalSeats": 68,
         "fastfilling": 0,
         "housefull": 0,
-        "occupancy": 3.78
+        "occupancy": 0.0
       }
     ]
   }
