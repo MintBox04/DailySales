@@ -1,15 +1,27 @@
 {
   "O'Romeo": {
-    "shows": 2,
-    "gross": 0.0,
-    "sold": 0,
-    "totalSeats": 453,
-    "venues": 2,
-    "cities": 2,
+    "shows": 4,
+    "gross": 1500.0,
+    "sold": 5,
+    "totalSeats": 502,
+    "venues": 4,
+    "cities": 3,
     "fastfilling": 0,
     "housefull": 0,
-    "occupancy": 0.0,
+    "occupancy": 1.0,
     "City_details": [
+      {
+        "city": "Ahmedabad",
+        "state": "gujarat",
+        "venues": 2,
+        "shows": 2,
+        "gross": 1500.0,
+        "sold": 5,
+        "totalSeats": 49,
+        "fastfilling": 0,
+        "housefull": 0,
+        "occupancy": 10.2
+      },
       {
         "city": "Mumbai",
         "state": "maharashtra",
@@ -38,27 +50,27 @@
     "Language_details": [
       {
         "language": "Hindi",
-        "venues": 2,
-        "shows": 2,
-        "gross": 0.0,
-        "sold": 0,
-        "totalSeats": 453,
+        "venues": 4,
+        "shows": 4,
+        "gross": 1500.0,
+        "sold": 5,
+        "totalSeats": 502,
         "fastfilling": 0,
         "housefull": 0,
-        "occupancy": 0.0
+        "occupancy": 1.0
       }
     ],
     "Format_details": [
       {
         "dimension": "2D",
-        "venues": 2,
-        "shows": 2,
-        "gross": 0.0,
-        "sold": 0,
-        "totalSeats": 453,
+        "venues": 4,
+        "shows": 4,
+        "gross": 1500.0,
+        "sold": 5,
+        "totalSeats": 502,
         "fastfilling": 0,
         "housefull": 0,
-        "occupancy": 0.0
+        "occupancy": 1.0
       }
     ]
   },
