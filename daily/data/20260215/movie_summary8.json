@@ -1,384 +1,101 @@
 {
-  "Sweety Naughty Crazy": {
-    "shows": 4,
-    "gross": 9280.0,
-    "sold": 74,
-    "totalSeats": 647,
-    "venues": 4,
-    "cities": 3,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 11.44,
-    "City_details": [
-      {
-        "city": "Tirupur",
-        "state": "Tamil Nadu",
-        "venues": 1,
-        "shows": 1,
-        "gross": 0.0,
-        "sold": 0,
-        "totalSeats": 103,
-        "fastfilling": 0,
-        "housefull": 0,
-        "occupancy": 0.0
-      },
-      {
-        "city": "Dharmapuri",
-        "state": "Tamil Nadu",
-        "venues": 1,
-        "shows": 1,
-        "gross": 4080.0,
-        "sold": 34,
-        "totalSeats": 72,
-        "fastfilling": 0,
-        "housefull": 0,
-        "occupancy": 47.22
-      },
-      {
-        "city": "Salem",
-        "state": "Tamil Nadu",
-        "venues": 2,
-        "shows": 2,
-        "gross": 5200.0,
-        "sold": 40,
-        "totalSeats": 472,
-        "fastfilling": 0,
-        "housefull": 0,
-        "occupancy": 8.47
-      }
-    ],
-    "Language_details": [
-      {
-        "language": "Tamil",
-        "venues": 4,
-        "shows": 4,
-        "gross": 9280.0,
-        "sold": 74,
-        "totalSeats": 647,
-        "fastfilling": 0,
-        "housefull": 0,
-        "occupancy": 11.44
-      }
-    ],
-    "Format_details": [
-      {
-        "dimension": "2D",
-        "venues": 4,
-        "shows": 4,
-        "gross": 9280.0,
-        "sold": 74,
-        "totalSeats": 647,
-        "fastfilling": 0,
-        "housefull": 0,
-        "occupancy": 11.44
-      }
-    ]
-  },
   "With Love": {
-    "shows": 5,
-    "gross": 39659.15,
-    "sold": 341,
-    "totalSeats": 2134,
-    "venues": 5,
+    "shows": 4,
+    "gross": 37213.9,
+    "sold": 320,
+    "totalSeats": 1544,
+    "venues": 4,
     "cities": 2,
     "fastfilling": 0,
     "housefull": 0,
-    "occupancy": 15.98,
+    "occupancy": 20.73,
     "City_details": [
       {
         "city": "Tirupur",
         "state": "Tamil Nadu",
         "venues": 1,
         "shows": 1,
-        "gross": 4240.0,
-        "sold": 60,
+        "gross": 5580.0,
+        "sold": 69,
         "totalSeats": 416,
         "fastfilling": 0,
         "housefull": 0,
-        "occupancy": 14.42
+        "occupancy": 16.59
       },
       {
         "city": "Salem",
         "state": "Tamil Nadu",
-        "venues": 4,
-        "shows": 4,
-        "gross": 35419.15,
-        "sold": 281,
-        "totalSeats": 1718,
+        "venues": 3,
+        "shows": 3,
+        "gross": 31633.9,
+        "sold": 251,
+        "totalSeats": 1128,
         "fastfilling": 0,
         "housefull": 0,
-        "occupancy": 16.36
+        "occupancy": 22.25
       }
     ],
     "Language_details": [
       {
         "language": "Tamil",
-        "venues": 5,
-        "shows": 5,
-        "gross": 39659.15,
-        "sold": 341,
-        "totalSeats": 2134,
+        "venues": 4,
+        "shows": 4,
+        "gross": 37213.9,
+        "sold": 320,
+        "totalSeats": 1544,
         "fastfilling": 0,
         "housefull": 0,
-        "occupancy": 15.98
+        "occupancy": 20.73
       }
     ],
     "Format_details": [
-      {
-        "dimension": "2D",
-        "venues": 5,
-        "shows": 5,
-        "gross": 39659.15,
-        "sold": 341,
-        "totalSeats": 2134,
-        "fastfilling": 0,
-        "housefull": 0,
-        "occupancy": 15.98
-      }
-    ]
-  },
-  "Wuthering Heights": {
-    "shows": 5,
-    "gross": 33858.0,
-    "sold": 95,
-    "totalSeats": 917,
-    "venues": 5,
-    "cities": 4,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 10.36,
-    "City_details": [
-      {
-        "city": "Ahmedabad",
-        "state": "Gujarat",
-        "venues": 1,
-        "shows": 1,
-        "gross": 28530.0,
-        "sold": 67,
-        "totalSeats": 256,
-        "fastfilling": 0,
-        "housefull": 0,
-        "occupancy": 26.17
-      },
-      {
-        "city": "Bhopal",
-        "state": "Madhya Pradesh",
-        "venues": 1,
-        "shows": 1,
-        "gross": 1080.0,
-        "sold": 4,
-        "totalSeats": 171,
-        "fastfilling": 0,
-        "housefull": 0,
-        "occupancy": 2.34
-      },
-      {
-        "city": "Vizag",
-        "state": "Andhra Pradesh",
-        "venues": 2,
-        "shows": 2,
-        "gross": 4071.0,
-        "sold": 23,
-        "totalSeats": 308,
-        "fastfilling": 0,
-        "housefull": 0,
-        "occupancy": 7.47
-      },
-      {
-        "city": "Vizag (Visakhapatnam)",
-        "state": "Andhra Pradesh",
-        "venues": 1,
-        "shows": 1,
-        "gross": 177.0,
-        "sold": 1,
-        "totalSeats": 182,
-        "fastfilling": 0,
-        "housefull": 0,
-        "occupancy": 0.55
-      }
-    ],
-    "Language_details": [
-      {
-        "language": "English",
-        "venues": 5,
-        "shows": 5,
-        "gross": 33858.0,
-        "sold": 95,
-        "totalSeats": 917,
-        "fastfilling": 0,
-        "housefull": 0,
-        "occupancy": 10.36
-      }
-    ],
-    "Format_details": [
-      {
-        "dimension": "IMAX 2D",
-        "venues": 1,
-        "shows": 1,
-        "gross": 28530.0,
-        "sold": 67,
-        "totalSeats": 256,
-        "fastfilling": 0,
-        "housefull": 0,
-        "occupancy": 26.17
-      },
       {
         "dimension": "2D",
         "venues": 4,
         "shows": 4,
-        "gross": 5328.0,
-        "sold": 28,
-        "totalSeats": 661,
+        "gross": 37213.9,
+        "sold": 320,
+        "totalSeats": 1544,
         "fastfilling": 0,
         "housefull": 0,
-        "occupancy": 4.24
-      }
-    ]
-  },
-  "Border 2": {
-    "shows": 14,
-    "gross": 71530.0,
-    "sold": 180,
-    "totalSeats": 1376,
-    "venues": 14,
-    "cities": 4,
-    "fastfilling": 1,
-    "housefull": 0,
-    "occupancy": 13.08,
-    "City_details": [
-      {
-        "city": "Ahmedabad",
-        "state": "Gujarat",
-        "venues": 10,
-        "shows": 10,
-        "gross": 58790.0,
-        "sold": 132,
-        "totalSeats": 819,
-        "fastfilling": 1,
-        "housefull": 0,
-        "occupancy": 16.12
-      },
-      {
-        "city": "Prayagraj (Allahabad)",
-        "state": "Uttar Pradesh",
-        "venues": 1,
-        "shows": 1,
-        "gross": 4270.0,
-        "sold": 13,
-        "totalSeats": 139,
-        "fastfilling": 0,
-        "housefull": 0,
-        "occupancy": 9.35
-      },
-      {
-        "city": "Gwalior",
-        "state": "Madhya Pradesh",
-        "venues": 1,
-        "shows": 1,
-        "gross": 810.0,
-        "sold": 3,
-        "totalSeats": 143,
-        "fastfilling": 0,
-        "housefull": 0,
-        "occupancy": 2.1
-      },
-      {
-        "city": "Bhopal",
-        "state": "Madhya Pradesh",
-        "venues": 2,
-        "shows": 2,
-        "gross": 7660.0,
-        "sold": 32,
-        "totalSeats": 275,
-        "fastfilling": 0,
-        "housefull": 0,
-        "occupancy": 11.64
-      }
-    ],
-    "Language_details": [
-      {
-        "language": "Hindi",
-        "venues": 14,
-        "shows": 14,
-        "gross": 71530.0,
-        "sold": 180,
-        "totalSeats": 1376,
-        "fastfilling": 1,
-        "housefull": 0,
-        "occupancy": 13.08
-      }
-    ],
-    "Format_details": [
-      {
-        "dimension": "2D",
-        "venues": 13,
-        "shows": 13,
-        "gross": 37080.0,
-        "sold": 115,
-        "totalSeats": 1256,
-        "fastfilling": 0,
-        "housefull": 0,
-        "occupancy": 9.16
-      },
-      {
-        "dimension": "4DX",
-        "venues": 1,
-        "shows": 1,
-        "gross": 34450.0,
-        "sold": 65,
-        "totalSeats": 120,
-        "fastfilling": 1,
-        "housefull": 0,
-        "occupancy": 54.17
+        "occupancy": 20.73
       }
     ]
   },
   "O' Romeo": {
-    "shows": 107,
-    "gross": 1068064.78,
-    "sold": 3644,
-    "totalSeats": 16933,
-    "venues": 72,
-    "cities": 20,
-    "fastfilling": 14,
+    "shows": 70,
+    "gross": 747804.0,
+    "sold": 2388,
+    "totalSeats": 10806,
+    "venues": 56,
+    "cities": 14,
+    "fastfilling": 8,
     "housefull": 0,
-    "occupancy": 21.52,
+    "occupancy": 22.1,
     "City_details": [
       {
         "city": "Ahmedabad",
         "state": "Gujarat",
-        "venues": 39,
-        "shows": 67,
-        "gross": 773780.0,
-        "sold": 2573,
-        "totalSeats": 9920,
-        "fastfilling": 12,
+        "venues": 33,
+        "shows": 46,
+        "gross": 568060.0,
+        "sold": 1755,
+        "totalSeats": 6511,
+        "fastfilling": 7,
         "housefull": 0,
-        "occupancy": 25.94
+        "occupancy": 26.95
       },
       {
         "city": "Prayagraj (Allahabad)",
         "state": "Uttar Pradesh",
         "venues": 1,
         "shows": 1,
-        "gross": 15500.0,
-        "sold": 40,
+        "gross": 21080.0,
+        "sold": 57,
         "totalSeats": 226,
         "fastfilling": 0,
         "housefull": 0,
-        "occupancy": 17.7
-      },
-      {
-        "city": "Prayagraj",
-        "state": "Uttar Pradesh",
-        "venues": 1,
-        "shows": 1,
-        "gross": 0.0,
-        "sold": 0,
-        "totalSeats": 128,
-        "fastfilling": 0,
-        "housefull": 0,
-        "occupancy": 0.0
+        "occupancy": 25.22
       },
       {
         "city": "Basti",
@@ -393,18 +110,6 @@
         "occupancy": 4.11
       },
       {
-        "city": "Kashipur",
-        "state": "Uttarakhand",
-        "venues": 1,
-        "shows": 1,
-        "gross": 0.0,
-        "sold": 0,
-        "totalSeats": 183,
-        "fastfilling": 0,
-        "housefull": 0,
-        "occupancy": 0.0
-      },
-      {
         "city": "Kozhinjampara",
         "state": "Kerala",
         "venues": 1,
@@ -417,13 +122,13 @@
         "occupancy": 0.0
       },
       {
-        "city": "Neral",
-        "state": "Maharashtra",
+        "city": "Bhilai",
+        "state": "Chhattisgarh",
         "venues": 1,
         "shows": 1,
         "gross": 0.0,
         "sold": 0,
-        "totalSeats": 150,
+        "totalSeats": 281,
         "fastfilling": 0,
         "housefull": 0,
         "occupancy": 0.0
@@ -444,37 +149,25 @@
         "city": "Chandrapur",
         "state": "Maharashtra",
         "venues": 1,
-        "shows": 2,
-        "gross": 14580.0,
-        "sold": 56,
-        "totalSeats": 433,
-        "fastfilling": 0,
-        "housefull": 0,
-        "occupancy": 12.93
-      },
-      {
-        "city": "Itanagar",
-        "state": "Arunachal Pradesh",
-        "venues": 1,
         "shows": 1,
-        "gross": 11300.0,
-        "sold": 33,
-        "totalSeats": 109,
+        "gross": 8440.0,
+        "sold": 30,
+        "totalSeats": 228,
         "fastfilling": 0,
         "housefull": 0,
-        "occupancy": 30.28
+        "occupancy": 13.16
       },
       {
         "city": "Rajkot",
         "state": "Gujarat",
-        "venues": 6,
-        "shows": 7,
-        "gross": 94820.0,
-        "sold": 352,
-        "totalSeats": 1044,
+        "venues": 5,
+        "shows": 5,
+        "gross": 66200.0,
+        "sold": 245,
+        "totalSeats": 691,
         "fastfilling": 1,
         "housefull": 0,
-        "occupancy": 33.72
+        "occupancy": 35.46
       },
       {
         "city": "Neemuch",
@@ -489,151 +182,115 @@
         "occupancy": 0.0
       },
       {
-        "city": "Salem",
-        "state": "Tamil Nadu",
-        "venues": 1,
-        "shows": 1,
-        "gross": 4454.78,
-        "sold": 22,
-        "totalSeats": 236,
-        "fastfilling": 0,
-        "housefull": 0,
-        "occupancy": 9.32
-      },
-      {
-        "city": "Vapi",
-        "state": "Gujarat",
-        "venues": 1,
-        "shows": 1,
-        "gross": 12460.0,
-        "sold": 46,
-        "totalSeats": 174,
-        "fastfilling": 0,
-        "housefull": 0,
-        "occupancy": 26.44
-      },
-      {
         "city": "Gwalior",
         "state": "Madhya Pradesh",
         "venues": 2,
-        "shows": 4,
-        "gross": 31520.0,
-        "sold": 105,
-        "totalSeats": 650,
+        "shows": 2,
+        "gross": 10040.0,
+        "sold": 36,
+        "totalSeats": 309,
         "fastfilling": 0,
         "housefull": 0,
-        "occupancy": 16.15
+        "occupancy": 11.65
       },
       {
         "city": "Bhopal",
         "state": "Madhya Pradesh",
-        "venues": 6,
-        "shows": 9,
-        "gross": 72030.0,
-        "sold": 248,
-        "totalSeats": 1513,
-        "fastfilling": 1,
-        "housefull": 0,
-        "occupancy": 16.39
-      },
-      {
-        "city": "Mathura",
-        "state": "Uttar Pradesh",
-        "venues": 1,
-        "shows": 1,
-        "gross": 3860.0,
-        "sold": 18,
-        "totalSeats": 222,
+        "venues": 5,
+        "shows": 6,
+        "gross": 51840.0,
+        "sold": 173,
+        "totalSeats": 994,
         "fastfilling": 0,
         "housefull": 0,
-        "occupancy": 8.11
+        "occupancy": 17.4
       },
       {
         "city": "Vizag",
         "state": "Andhra Pradesh",
-        "venues": 3,
-        "shows": 3,
-        "gross": 17110.0,
-        "sold": 88,
-        "totalSeats": 545,
+        "venues": 1,
+        "shows": 1,
+        "gross": 3894.0,
+        "sold": 22,
+        "totalSeats": 166,
         "fastfilling": 0,
         "housefull": 0,
-        "occupancy": 16.15
+        "occupancy": 13.25
       },
       {
         "city": "Siliguri",
         "state": "West Bengal",
         "venues": 2,
         "shows": 2,
-        "gross": 5400.0,
-        "sold": 20,
+        "gross": 5560.0,
+        "sold": 21,
         "totalSeats": 510,
         "fastfilling": 0,
         "housefull": 0,
-        "occupancy": 3.92
+        "occupancy": 4.12
       },
       {
         "city": "Alwar",
         "state": "Rajasthan",
         "venues": 1,
         "shows": 1,
-        "gross": 3400.0,
-        "sold": 10,
+        "gross": 4840.0,
+        "sold": 16,
         "totalSeats": 182,
         "fastfilling": 0,
         "housefull": 0,
-        "occupancy": 5.49
+        "occupancy": 8.79
       }
     ],
     "Language_details": [
       {
         "language": "Hindi",
-        "venues": 72,
-        "shows": 107,
-        "gross": 1068064.78,
-        "sold": 3644,
-        "totalSeats": 16933,
-        "fastfilling": 14,
+        "venues": 56,
+        "shows": 70,
+        "gross": 747804.0,
+        "sold": 2388,
+        "totalSeats": 10806,
+        "fastfilling": 8,
         "housefull": 0,
-        "occupancy": 21.52
+        "occupancy": 22.1
       }
     ],
     "Format_details": [
       {
         "dimension": "2D",
-        "venues": 72,
-        "shows": 107,
-        "gross": 1068064.78,
-        "sold": 3644,
-        "totalSeats": 16933,
-        "fastfilling": 14,
+        "venues": 56,
+        "shows": 70,
+        "gross": 747804.0,
+        "sold": 2388,
+        "totalSeats": 10806,
+        "fastfilling": 8,
         "housefull": 0,
-        "occupancy": 21.52
+        "occupancy": 22.1
       }
     ]
   },
   "Lagan Laagii Re": {
-    "shows": 5,
-    "gross": 35070.0,
-    "sold": 124,
-    "totalSeats": 626,
-    "venues": 5,
+    "shows": 3,
+    "gross": 25050.0,
+    "sold": 72,
+    "totalSeats": 313,
+    "venues": 3,
     "cities": 2,
     "fastfilling": 0,
     "housefull": 0,
-    "occupancy": 19.81,
+    "occupancy": 23.0,
     "City_details": [
       {
         "city": "Ahmedabad",
         "state": "Gujarat",
-        "venues": 4,
-        "shows": 4,
-        "gross": 29820.0,
-        "sold": 99,
-        "totalSeats": 446,
+        "venues": 2,
+        "shows": 2,
+        "gross": 19800.0,
+        "sold": 47,
+        "totalSeats": 133,
         "fastfilling": 0,
         "housefull": 0,
-        "occupancy": 22.2
+        "occupancy": 35.34
       },
       {
         "city": "Rajkot",
@@ -651,52 +308,52 @@
     "Language_details": [
       {
         "language": "Gujarati",
-        "venues": 5,
-        "shows": 5,
-        "gross": 35070.0,
-        "sold": 124,
-        "totalSeats": 626,
+        "venues": 3,
+        "shows": 3,
+        "gross": 25050.0,
+        "sold": 72,
+        "totalSeats": 313,
         "fastfilling": 0,
         "housefull": 0,
-        "occupancy": 19.81
+        "occupancy": 23.0
       }
     ],
     "Format_details": [
       {
         "dimension": "2D",
-        "venues": 5,
-        "shows": 5,
-        "gross": 35070.0,
-        "sold": 124,
-        "totalSeats": 626,
+        "venues": 3,
+        "shows": 3,
+        "gross": 25050.0,
+        "sold": 72,
+        "totalSeats": 313,
         "fastfilling": 0,
         "housefull": 0,
-        "occupancy": 19.81
+        "occupancy": 23.0
       }
     ]
   },
   "Mardaani 3": {
-    "shows": 17,
-    "gross": 56230.0,
-    "sold": 194,
-    "totalSeats": 2271,
-    "venues": 17,
-    "cities": 5,
-    "fastfilling": 1,
+    "shows": 13,
+    "gross": 27895.0,
+    "sold": 92,
+    "totalSeats": 1516,
+    "venues": 13,
+    "cities": 4,
+    "fastfilling": 0,
     "housefull": 0,
-    "occupancy": 8.54,
+    "occupancy": 6.07,
     "City_details": [
       {
         "city": "Ahmedabad",
         "state": "Gujarat",
-        "venues": 13,
-        "shows": 13,
-        "gross": 49090.0,
-        "sold": 164,
-        "totalSeats": 1429,
-        "fastfilling": 1,
+        "venues": 10,
+        "shows": 10,
+        "gross": 25195.0,
+        "sold": 80,
+        "totalSeats": 942,
+        "fastfilling": 0,
         "housefull": 0,
-        "occupancy": 11.48
+        "occupancy": 8.49
       },
       {
         "city": "Prayagraj (Allahabad)",
@@ -715,87 +372,149 @@
         "state": "Gujarat",
         "venues": 1,
         "shows": 1,
-        "gross": 3080.0,
-        "sold": 14,
+        "gross": 1320.0,
+        "sold": 6,
         "totalSeats": 211,
         "fastfilling": 0,
         "housefull": 0,
-        "occupancy": 6.64
+        "occupancy": 2.84
       },
       {
         "city": "Gwalior",
         "state": "Madhya Pradesh",
         "venues": 1,
         "shows": 1,
-        "gross": 2620.0,
-        "sold": 10,
-        "totalSeats": 160,
-        "fastfilling": 0,
-        "housefull": 0,
-        "occupancy": 6.25
-      },
-      {
-        "city": "Siliguri",
-        "state": "West Bengal",
-        "venues": 1,
-        "shows": 1,
-        "gross": 1440.0,
+        "gross": 1380.0,
         "sold": 6,
-        "totalSeats": 250,
+        "totalSeats": 142,
         "fastfilling": 0,
         "housefull": 0,
-        "occupancy": 2.4
+        "occupancy": 4.23
       }
     ],
     "Language_details": [
       {
         "language": "Hindi",
-        "venues": 17,
-        "shows": 17,
-        "gross": 56230.0,
-        "sold": 194,
-        "totalSeats": 2271,
-        "fastfilling": 1,
+        "venues": 13,
+        "shows": 13,
+        "gross": 27895.0,
+        "sold": 92,
+        "totalSeats": 1516,
+        "fastfilling": 0,
         "housefull": 0,
-        "occupancy": 8.54
+        "occupancy": 6.07
       }
     ],
     "Format_details": [
       {
         "dimension": "2D",
-        "venues": 17,
-        "shows": 17,
-        "gross": 56230.0,
-        "sold": 194,
-        "totalSeats": 2271,
-        "fastfilling": 1,
+        "venues": 13,
+        "shows": 13,
+        "gross": 27895.0,
+        "sold": 92,
+        "totalSeats": 1516,
+        "fastfilling": 0,
         "housefull": 0,
-        "occupancy": 8.54
+        "occupancy": 6.07
       }
     ]
   },
-  "Crime 101": {
-    "shows": 6,
-    "gross": 6172.0,
-    "sold": 32,
-    "totalSeats": 734,
-    "venues": 6,
-    "cities": 3,
-    "fastfilling": 0,
+  "Border 2": {
+    "shows": 7,
+    "gross": 43070.0,
+    "sold": 91,
+    "totalSeats": 630,
+    "venues": 7,
+    "cities": 2,
+    "fastfilling": 1,
     "housefull": 0,
-    "occupancy": 4.36,
+    "occupancy": 14.44,
     "City_details": [
       {
         "city": "Ahmedabad",
         "state": "Gujarat",
-        "venues": 4,
-        "shows": 4,
-        "gross": 3340.0,
-        "sold": 16,
-        "totalSeats": 448,
+        "venues": 6,
+        "shows": 6,
+        "gross": 42260.0,
+        "sold": 88,
+        "totalSeats": 487,
+        "fastfilling": 1,
+        "housefull": 0,
+        "occupancy": 18.07
+      },
+      {
+        "city": "Gwalior",
+        "state": "Madhya Pradesh",
+        "venues": 1,
+        "shows": 1,
+        "gross": 810.0,
+        "sold": 3,
+        "totalSeats": 143,
         "fastfilling": 0,
         "housefull": 0,
-        "occupancy": 3.57
+        "occupancy": 2.1
+      }
+    ],
+    "Language_details": [
+      {
+        "language": "Hindi",
+        "venues": 7,
+        "shows": 7,
+        "gross": 43070.0,
+        "sold": 91,
+        "totalSeats": 630,
+        "fastfilling": 1,
+        "housefull": 0,
+        "occupancy": 14.44
+      }
+    ],
+    "Format_details": [
+      {
+        "dimension": "4DX",
+        "venues": 1,
+        "shows": 1,
+        "gross": 38160.0,
+        "sold": 72,
+        "totalSeats": 120,
+        "fastfilling": 1,
+        "housefull": 0,
+        "occupancy": 60.0
+      },
+      {
+        "dimension": "2D",
+        "venues": 6,
+        "shows": 6,
+        "gross": 4910.0,
+        "sold": 19,
+        "totalSeats": 510,
+        "fastfilling": 0,
+        "housefull": 0,
+        "occupancy": 3.73
+      }
+    ]
+  },
+  "Crime 101": {
+    "shows": 5,
+    "gross": 6289.0,
+    "sold": 33,
+    "totalSeats": 610,
+    "venues": 5,
+    "cities": 3,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 5.41,
+    "City_details": [
+      {
+        "city": "Ahmedabad",
+        "state": "Gujarat",
+        "venues": 3,
+        "shows": 3,
+        "gross": 3280.0,
+        "sold": 16,
+        "totalSeats": 324,
+        "fastfilling": 0,
+        "housefull": 0,
+        "occupancy": 4.94
       },
       {
         "city": "Vapi",
@@ -814,12 +533,12 @@
         "state": "Andhra Pradesh",
         "venues": 1,
         "shows": 1,
-        "gross": 2832.0,
-        "sold": 16,
+        "gross": 3009.0,
+        "sold": 17,
         "totalSeats": 147,
         "fastfilling": 0,
         "housefull": 0,
-        "occupancy": 10.88
+        "occupancy": 11.56
       }
     ],
     "Language_details": [
@@ -827,73 +546,61 @@
         "language": "English",
         "venues": 2,
         "shows": 2,
-        "gross": 4272.0,
-        "sold": 22,
+        "gross": 4669.0,
+        "sold": 24,
         "totalSeats": 280,
         "fastfilling": 0,
         "housefull": 0,
-        "occupancy": 7.86
+        "occupancy": 8.57
       },
       {
         "language": "Hindi",
-        "venues": 4,
-        "shows": 4,
-        "gross": 1900.0,
-        "sold": 10,
-        "totalSeats": 454,
+        "venues": 3,
+        "shows": 3,
+        "gross": 1620.0,
+        "sold": 9,
+        "totalSeats": 330,
         "fastfilling": 0,
         "housefull": 0,
-        "occupancy": 2.2
+        "occupancy": 2.73
       }
     ],
     "Format_details": [
       {
         "dimension": "2D",
-        "venues": 6,
-        "shows": 6,
-        "gross": 6172.0,
-        "sold": 32,
-        "totalSeats": 734,
+        "venues": 5,
+        "shows": 5,
+        "gross": 6289.0,
+        "sold": 33,
+        "totalSeats": 610,
         "fastfilling": 0,
         "housefull": 0,
-        "occupancy": 4.36
+        "occupancy": 5.41
       }
     ]
   },
   "Tu Yaa Main": {
-    "shows": 10,
-    "gross": 29006.0,
-    "sold": 130,
-    "totalSeats": 2056,
-    "venues": 10,
-    "cities": 9,
+    "shows": 5,
+    "gross": 15531.0,
+    "sold": 74,
+    "totalSeats": 888,
+    "venues": 5,
+    "cities": 4,
     "fastfilling": 0,
     "housefull": 0,
-    "occupancy": 6.32,
+    "occupancy": 8.33,
     "City_details": [
       {
         "city": "Ahmedabad",
         "state": "Gujarat",
         "venues": 2,
         "shows": 2,
-        "gross": 7300.0,
-        "sold": 34,
+        "gross": 11460.0,
+        "sold": 54,
         "totalSeats": 255,
         "fastfilling": 0,
         "housefull": 0,
-        "occupancy": 13.33
-      },
-      {
-        "city": "Prayagraj",
-        "state": "Uttar Pradesh",
-        "venues": 1,
-        "shows": 1,
-        "gross": 1920.0,
-        "sold": 12,
-        "totalSeats": 200,
-        "fastfilling": 0,
-        "housefull": 0,
-        "occupancy": 6.0
+        "occupancy": 21.18
       },
       {
         "city": "Bhilai",
@@ -906,30 +613,6 @@
         "fastfilling": 0,
         "housefull": 0,
         "occupancy": 2.0
-      },
-      {
-        "city": "Chandrapur",
-        "state": "Maharashtra",
-        "venues": 1,
-        "shows": 1,
-        "gross": 1000.0,
-        "sold": 4,
-        "totalSeats": 205,
-        "fastfilling": 0,
-        "housefull": 0,
-        "occupancy": 1.95
-      },
-      {
-        "city": "Rajkot",
-        "state": "Gujarat",
-        "venues": 1,
-        "shows": 1,
-        "gross": 6600.0,
-        "sold": 29,
-        "totalSeats": 274,
-        "fastfilling": 0,
-        "housefull": 0,
-        "occupancy": 10.58
       },
       {
         "city": "Bhopal",
@@ -948,62 +631,38 @@
         "state": "Andhra Pradesh",
         "venues": 1,
         "shows": 1,
-        "gross": 1416.0,
-        "sold": 8,
+        "gross": 2301.0,
+        "sold": 13,
         "totalSeats": 156,
         "fastfilling": 0,
         "housefull": 0,
-        "occupancy": 5.13
-      },
-      {
-        "city": "Siliguri",
-        "state": "West Bengal",
-        "venues": 1,
-        "shows": 1,
-        "gross": 8260.0,
-        "sold": 33,
-        "totalSeats": 351,
-        "fastfilling": 0,
-        "housefull": 0,
-        "occupancy": 9.4
-      },
-      {
-        "city": "Alwar",
-        "state": "Rajasthan",
-        "venues": 1,
-        "shows": 1,
-        "gross": 740.0,
-        "sold": 3,
-        "totalSeats": 138,
-        "fastfilling": 0,
-        "housefull": 0,
-        "occupancy": 2.17
+        "occupancy": 8.33
       }
     ],
     "Language_details": [
       {
         "language": "Hindi",
-        "venues": 10,
-        "shows": 10,
-        "gross": 29006.0,
-        "sold": 130,
-        "totalSeats": 2056,
+        "venues": 5,
+        "shows": 5,
+        "gross": 15531.0,
+        "sold": 74,
+        "totalSeats": 888,
         "fastfilling": 0,
         "housefull": 0,
-        "occupancy": 6.32
+        "occupancy": 8.33
       }
     ],
     "Format_details": [
       {
         "dimension": "2D",
-        "venues": 10,
-        "shows": 10,
-        "gross": 29006.0,
-        "sold": 130,
-        "totalSeats": 2056,
+        "venues": 5,
+        "shows": 5,
+        "gross": 15531.0,
+        "sold": 74,
+        "totalSeats": 888,
         "fastfilling": 0,
         "housefull": 0,
-        "occupancy": 6.32
+        "occupancy": 8.33
       }
     ]
   },
@@ -1110,28 +769,16 @@
     ]
   },
   "My Lord": {
-    "shows": 9,
-    "gross": 37710.0,
-    "sold": 285,
-    "totalSeats": 3323,
-    "venues": 9,
-    "cities": 5,
+    "shows": 4,
+    "gross": 5300.0,
+    "sold": 46,
+    "totalSeats": 2881,
+    "venues": 4,
+    "cities": 4,
     "fastfilling": 0,
     "housefull": 0,
-    "occupancy": 8.58,
+    "occupancy": 1.6,
     "City_details": [
-      {
-        "city": "Tirunelveli",
-        "state": "Tamil Nadu",
-        "venues": 1,
-        "shows": 1,
-        "gross": 10180.0,
-        "sold": 74,
-        "totalSeats": 343,
-        "fastfilling": 0,
-        "housefull": 0,
-        "occupancy": 21.57
-      },
       {
         "city": "Kozhinjampara",
         "state": "Kerala",
@@ -1149,197 +796,36 @@
         "state": "Tamil Nadu",
         "venues": 1,
         "shows": 1,
-        "gross": 2850.0,
-        "sold": 19,
+        "gross": 0.0,
+        "sold": 0,
         "totalSeats": 446,
         "fastfilling": 0,
         "housefull": 0,
-        "occupancy": 4.26
+        "occupancy": 0.0
       },
       {
         "city": "Salem",
         "state": "Tamil Nadu",
-        "venues": 5,
-        "shows": 5,
-        "gross": 19830.0,
-        "sold": 157,
-        "totalSeats": 1773,
+        "venues": 1,
+        "shows": 1,
+        "gross": 5300.0,
+        "sold": 46,
+        "totalSeats": 104,
         "fastfilling": 0,
         "housefull": 0,
-        "occupancy": 8.86
+        "occupancy": 44.23
       },
       {
         "city": "Erode",
         "state": "Tamil Nadu",
         "venues": 1,
         "shows": 1,
-        "gross": 4850.0,
-        "sold": 35,
-        "totalSeats": 530,
-        "fastfilling": 0,
-        "housefull": 0,
-        "occupancy": 6.6
-      }
-    ],
-    "Language_details": [
-      {
-        "language": "Tamil",
-        "venues": 9,
-        "shows": 9,
-        "gross": 37710.0,
-        "sold": 285,
-        "totalSeats": 3323,
-        "fastfilling": 0,
-        "housefull": 0,
-        "occupancy": 8.58
-      }
-    ],
-    "Format_details": [
-      {
-        "dimension": "2D",
-        "venues": 9,
-        "shows": 9,
-        "gross": 37710.0,
-        "sold": 285,
-        "totalSeats": 3323,
-        "fastfilling": 0,
-        "housefull": 0,
-        "occupancy": 8.58
-      }
-    ]
-  },
-  "Seetha Payanam": {
-    "shows": 2,
-    "gross": 10687.0,
-    "sold": 71,
-    "totalSeats": 476,
-    "venues": 2,
-    "cities": 2,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 14.92,
-    "City_details": [
-      {
-        "city": "Tirunelveli",
-        "state": "Tamil Nadu",
-        "venues": 1,
-        "shows": 1,
-        "gross": 5200.0,
-        "sold": 40,
-        "totalSeats": 240,
-        "fastfilling": 0,
-        "housefull": 0,
-        "occupancy": 16.67
-      },
-      {
-        "city": "Vizag",
-        "state": "Andhra Pradesh",
-        "venues": 1,
-        "shows": 1,
-        "gross": 5487.0,
-        "sold": 31,
-        "totalSeats": 236,
-        "fastfilling": 0,
-        "housefull": 0,
-        "occupancy": 13.14
-      }
-    ],
-    "Language_details": [
-      {
-        "language": "Tamil",
-        "venues": 1,
-        "shows": 1,
-        "gross": 5200.0,
-        "sold": 40,
-        "totalSeats": 240,
-        "fastfilling": 0,
-        "housefull": 0,
-        "occupancy": 16.67
-      },
-      {
-        "language": "Telugu",
-        "venues": 1,
-        "shows": 1,
-        "gross": 5487.0,
-        "sold": 31,
-        "totalSeats": 236,
-        "fastfilling": 0,
-        "housefull": 0,
-        "occupancy": 13.14
-      }
-    ],
-    "Format_details": [
-      {
-        "dimension": "2D",
-        "venues": 2,
-        "shows": 2,
-        "gross": 10687.0,
-        "sold": 71,
-        "totalSeats": 476,
-        "fastfilling": 0,
-        "housefull": 0,
-        "occupancy": 14.92
-      }
-    ]
-  },
-  "Pookie": {
-    "shows": 4,
-    "gross": 2400.0,
-    "sold": 20,
-    "totalSeats": 1186,
-    "venues": 4,
-    "cities": 4,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 1.69,
-    "City_details": [
-      {
-        "city": "Dharmapuri",
-        "state": "Tamil Nadu",
-        "venues": 1,
-        "shows": 1,
         "gross": 0.0,
         "sold": 0,
-        "totalSeats": 115,
+        "totalSeats": 2100,
         "fastfilling": 0,
         "housefull": 0,
         "occupancy": 0.0
-      },
-      {
-        "city": "Kovilpatti",
-        "state": "Tamil Nadu",
-        "venues": 1,
-        "shows": 1,
-        "gross": 0.0,
-        "sold": 0,
-        "totalSeats": 208,
-        "fastfilling": 0,
-        "housefull": 0,
-        "occupancy": 0.0
-      },
-      {
-        "city": "Salem",
-        "state": "Tamil Nadu",
-        "venues": 1,
-        "shows": 1,
-        "gross": 0.0,
-        "sold": 0,
-        "totalSeats": 712,
-        "fastfilling": 0,
-        "housefull": 0,
-        "occupancy": 0.0
-      },
-      {
-        "city": "Komarapalayam",
-        "state": "Tamil Nadu",
-        "venues": 1,
-        "shows": 1,
-        "gross": 2400.0,
-        "sold": 20,
-        "totalSeats": 151,
-        "fastfilling": 0,
-        "housefull": 0,
-        "occupancy": 13.25
       }
     ],
     "Language_details": [
@@ -1347,12 +833,12 @@
         "language": "Tamil",
         "venues": 4,
         "shows": 4,
-        "gross": 2400.0,
-        "sold": 20,
-        "totalSeats": 1186,
+        "gross": 5300.0,
+        "sold": 46,
+        "totalSeats": 2881,
         "fastfilling": 0,
         "housefull": 0,
-        "occupancy": 1.69
+        "occupancy": 1.6
       }
     ],
     "Format_details": [
@@ -1360,110 +846,12 @@
         "dimension": "2D",
         "venues": 4,
         "shows": 4,
-        "gross": 2400.0,
-        "sold": 20,
-        "totalSeats": 1186,
+        "gross": 5300.0,
+        "sold": 46,
+        "totalSeats": 2881,
         "fastfilling": 0,
         "housefull": 0,
-        "occupancy": 1.69
-      }
-    ]
-  },
-  "Couple Friendly": {
-    "shows": 7,
-    "gross": 87376.0,
-    "sold": 548,
-    "totalSeats": 1459,
-    "venues": 7,
-    "cities": 4,
-    "fastfilling": 1,
-    "housefull": 1,
-    "occupancy": 37.56,
-    "City_details": [
-      {
-        "city": "Dharmapuri",
-        "state": "Tamil Nadu",
-        "venues": 1,
-        "shows": 1,
-        "gross": 5340.0,
-        "sold": 47,
-        "totalSeats": 331,
-        "fastfilling": 0,
-        "housefull": 0,
-        "occupancy": 14.2
-      },
-      {
-        "city": "Salem",
-        "state": "Tamil Nadu",
-        "venues": 2,
-        "shows": 2,
-        "gross": 38140.0,
-        "sold": 253,
-        "totalSeats": 438,
-        "fastfilling": 0,
-        "housefull": 1,
-        "occupancy": 57.76
-      },
-      {
-        "city": "Vizag",
-        "state": "Andhra Pradesh",
-        "venues": 2,
-        "shows": 2,
-        "gross": 26019.0,
-        "sold": 147,
-        "totalSeats": 313,
-        "fastfilling": 1,
-        "housefull": 0,
-        "occupancy": 46.96
-      },
-      {
-        "city": "Vizag (Visakhapatnam)",
-        "state": "Andhra Pradesh",
-        "venues": 2,
-        "shows": 2,
-        "gross": 17877.0,
-        "sold": 101,
-        "totalSeats": 377,
-        "fastfilling": 0,
-        "housefull": 0,
-        "occupancy": 26.79
-      }
-    ],
-    "Language_details": [
-      {
-        "language": "Tamil",
-        "venues": 3,
-        "shows": 3,
-        "gross": 43480.0,
-        "sold": 300,
-        "totalSeats": 769,
-        "fastfilling": 0,
-        "housefull": 1,
-        "occupancy": 39.01
-      },
-      {
-        "language": "Telugu",
-        "venues": 4,
-        "shows": 4,
-        "gross": 43896.0,
-        "sold": 248,
-        "totalSeats": 690,
-        "fastfilling": 1,
-        "housefull": 0,
-        "occupancy": 35.94
-      }
-    ],
-    "Format_details": [
-      {
-        "dimension": "2D",
-        "venues": 7,
-        "shows": 7,
-        "gross": 87376.0,
-        "sold": 548,
-        "totalSeats": 1459,
-        "fastfilling": 1,
-        "housefull": 1,
-        "occupancy": 37.56
+        "occupancy": 1.6
       }
     ]
   },
@@ -1569,16 +957,67 @@
       }
     ]
   },
+  "Pookie": {
+    "shows": 1,
+    "gross": 0.0,
+    "sold": 0,
+    "totalSeats": 208,
+    "venues": 1,
+    "cities": 1,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 0.0,
+    "City_details": [
+      {
+        "city": "Kovilpatti",
+        "state": "Tamil Nadu",
+        "venues": 1,
+        "shows": 1,
+        "gross": 0.0,
+        "sold": 0,
+        "totalSeats": 208,
+        "fastfilling": 0,
+        "housefull": 0,
+        "occupancy": 0.0
+      }
+    ],
+    "Language_details": [
+      {
+        "language": "Tamil",
+        "venues": 1,
+        "shows": 1,
+        "gross": 0.0,
+        "sold": 0,
+        "totalSeats": 208,
+        "fastfilling": 0,
+        "housefull": 0,
+        "occupancy": 0.0
+      }
+    ],
+    "Format_details": [
+      {
+        "dimension": "2D",
+        "venues": 1,
+        "shows": 1,
+        "gross": 0.0,
+        "sold": 0,
+        "totalSeats": 208,
+        "fastfilling": 0,
+        "housefull": 0,
+        "occupancy": 0.0
+      }
+    ]
+  },
   "Funky": {
-    "shows": 7,
-    "gross": 35695.0,
-    "sold": 189,
-    "totalSeats": 2238,
-    "venues": 7,
+    "shows": 4,
+    "gross": 22479.0,
+    "sold": 121,
+    "totalSeats": 1534,
+    "venues": 4,
     "cities": 3,
     "fastfilling": 0,
     "housefull": 0,
-    "occupancy": 8.45,
+    "occupancy": 7.89,
     "City_details": [
       {
         "city": "Penugonda",
@@ -1595,65 +1034,65 @@
       {
         "city": "Vizag",
         "state": "Andhra Pradesh",
-        "venues": 4,
-        "shows": 4,
-        "gross": 24249.0,
-        "sold": 127,
-        "totalSeats": 1215,
+        "venues": 2,
+        "shows": 2,
+        "gross": 14396.0,
+        "sold": 78,
+        "totalSeats": 673,
         "fastfilling": 0,
         "housefull": 0,
-        "occupancy": 10.45
+        "occupancy": 11.59
       },
       {
         "city": "Vizag (Visakhapatnam)",
         "state": "Andhra Pradesh",
-        "venues": 2,
-        "shows": 2,
-        "gross": 11446.0,
-        "sold": 62,
-        "totalSeats": 483,
+        "venues": 1,
+        "shows": 1,
+        "gross": 8083.0,
+        "sold": 43,
+        "totalSeats": 321,
         "fastfilling": 0,
         "housefull": 0,
-        "occupancy": 12.84
+        "occupancy": 13.4
       }
     ],
     "Language_details": [
       {
         "language": "Telugu",
-        "venues": 7,
-        "shows": 7,
-        "gross": 35695.0,
-        "sold": 189,
-        "totalSeats": 2238,
+        "venues": 4,
+        "shows": 4,
+        "gross": 22479.0,
+        "sold": 121,
+        "totalSeats": 1534,
         "fastfilling": 0,
         "housefull": 0,
-        "occupancy": 8.45
+        "occupancy": 7.89
       }
     ],
     "Format_details": [
       {
         "dimension": "2D",
-        "venues": 7,
-        "shows": 7,
-        "gross": 35695.0,
-        "sold": 189,
-        "totalSeats": 2238,
+        "venues": 4,
+        "shows": 4,
+        "gross": 22479.0,
+        "sold": 121,
+        "totalSeats": 1534,
         "fastfilling": 0,
         "housefull": 0,
-        "occupancy": 8.45
+        "occupancy": 7.89
       }
     ]
   },
   "Manasantha Nuvve": {
     "shows": 5,
-    "gross": 14157.0,
-    "sold": 97,
+    "gross": 15573.0,
+    "sold": 105,
     "totalSeats": 2432,
     "venues": 5,
     "cities": 3,
     "fastfilling": 0,
     "housefull": 0,
-    "occupancy": 3.99,
+    "occupancy": 4.32,
     "City_details": [
       {
         "city": "Jadcherla",
@@ -1672,12 +1111,12 @@
         "state": "Andhra Pradesh",
         "venues": 2,
         "shows": 2,
-        "gross": 14157.0,
-        "sold": 97,
+        "gross": 15573.0,
+        "sold": 105,
         "totalSeats": 594,
         "fastfilling": 0,
         "housefull": 0,
-        "occupancy": 16.33
+        "occupancy": 17.68
       },
       {
         "city": "Vizag (Visakhapatnam)",
@@ -1697,12 +1136,12 @@
         "language": "Telugu",
         "venues": 5,
         "shows": 5,
-        "gross": 14157.0,
-        "sold": 97,
+        "gross": 15573.0,
+        "sold": 105,
         "totalSeats": 2432,
         "fastfilling": 0,
         "housefull": 0,
-        "occupancy": 3.99
+        "occupancy": 4.32
       }
     ],
     "Format_details": [
@@ -1710,267 +1149,12 @@
         "dimension": "2D",
         "venues": 5,
         "shows": 5,
-        "gross": 14157.0,
-        "sold": 97,
+        "gross": 15573.0,
+        "sold": 105,
         "totalSeats": 2432,
         "fastfilling": 0,
         "housefull": 0,
-        "occupancy": 3.99
-      }
-    ]
-  },
-  "Kaa -The Forest": {
-    "shows": 2,
-    "gross": 1700.0,
-    "sold": 17,
-    "totalSeats": 929,
-    "venues": 2,
-    "cities": 1,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 1.83,
-    "City_details": [
-      {
-        "city": "Salem",
-        "state": "Tamil Nadu",
-        "venues": 2,
-        "shows": 2,
-        "gross": 1700.0,
-        "sold": 17,
-        "totalSeats": 929,
-        "fastfilling": 0,
-        "housefull": 0,
-        "occupancy": 1.83
-      }
-    ],
-    "Language_details": [
-      {
-        "language": "Tamil",
-        "venues": 2,
-        "shows": 2,
-        "gross": 1700.0,
-        "sold": 17,
-        "totalSeats": 929,
-        "fastfilling": 0,
-        "housefull": 0,
-        "occupancy": 1.83
-      }
-    ],
-    "Format_details": [
-      {
-        "dimension": "2D",
-        "venues": 2,
-        "shows": 2,
-        "gross": 1700.0,
-        "sold": 17,
-        "totalSeats": 929,
-        "fastfilling": 0,
-        "housefull": 0,
-        "occupancy": 1.83
-      }
-    ]
-  },
-  "Uyirullavarai Usha": {
-    "shows": 1,
-    "gross": 18720.0,
-    "sold": 156,
-    "totalSeats": 156,
-    "venues": 1,
-    "cities": 1,
-    "fastfilling": 0,
-    "housefull": 1,
-    "occupancy": 100.0,
-    "City_details": [
-      {
-        "city": "Salem",
-        "state": "Tamil Nadu",
-        "venues": 1,
-        "shows": 1,
-        "gross": 18720.0,
-        "sold": 156,
-        "totalSeats": 156,
-        "fastfilling": 0,
-        "housefull": 1,
-        "occupancy": 100.0
-      }
-    ],
-    "Language_details": [
-      {
-        "language": "Tamil",
-        "venues": 1,
-        "shows": 1,
-        "gross": 18720.0,
-        "sold": 156,
-        "totalSeats": 156,
-        "fastfilling": 0,
-        "housefull": 1,
-        "occupancy": 100.0
-      }
-    ],
-    "Format_details": [
-      {
-        "dimension": "2D",
-        "venues": 1,
-        "shows": 1,
-        "gross": 18720.0,
-        "sold": 156,
-        "totalSeats": 156,
-        "fastfilling": 0,
-        "housefull": 1,
-        "occupancy": 100.0
-      }
-    ]
-  },
-  "Minnale": {
-    "shows": 1,
-    "gross": 1560.0,
-    "sold": 13,
-    "totalSeats": 109,
-    "venues": 1,
-    "cities": 1,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 11.93,
-    "City_details": [
-      {
-        "city": "Salem",
-        "state": "Tamil Nadu",
-        "venues": 1,
-        "shows": 1,
-        "gross": 1560.0,
-        "sold": 13,
-        "totalSeats": 109,
-        "fastfilling": 0,
-        "housefull": 0,
-        "occupancy": 11.93
-      }
-    ],
-    "Language_details": [
-      {
-        "language": "Tamil",
-        "venues": 1,
-        "shows": 1,
-        "gross": 1560.0,
-        "sold": 13,
-        "totalSeats": 109,
-        "fastfilling": 0,
-        "housefull": 0,
-        "occupancy": 11.93
-      }
-    ],
-    "Format_details": [
-      {
-        "dimension": "2D",
-        "venues": 1,
-        "shows": 1,
-        "gross": 1560.0,
-        "sold": 13,
-        "totalSeats": 109,
-        "fastfilling": 0,
-        "housefull": 0,
-        "occupancy": 11.93
-      }
-    ]
-  },
-  "Aashaan": {
-    "shows": 1,
-    "gross": 2650.0,
-    "sold": 17,
-    "totalSeats": 194,
-    "venues": 1,
-    "cities": 1,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 8.76,
-    "City_details": [
-      {
-        "city": "Changaramkulam",
-        "state": "Kerala",
-        "venues": 1,
-        "shows": 1,
-        "gross": 2650.0,
-        "sold": 17,
-        "totalSeats": 194,
-        "fastfilling": 0,
-        "housefull": 0,
-        "occupancy": 8.76
-      }
-    ],
-    "Language_details": [
-      {
-        "language": "Malayalam",
-        "venues": 1,
-        "shows": 1,
-        "gross": 2650.0,
-        "sold": 17,
-        "totalSeats": 194,
-        "fastfilling": 0,
-        "housefull": 0,
-        "occupancy": 8.76
-      }
-    ],
-    "Format_details": [
-      {
-        "dimension": "2D",
-        "venues": 1,
-        "shows": 1,
-        "gross": 2650.0,
-        "sold": 17,
-        "totalSeats": 194,
-        "fastfilling": 0,
-        "housefull": 0,
-        "occupancy": 8.76
-      }
-    ]
-  },
-  "Koodothram": {
-    "shows": 1,
-    "gross": 4000.0,
-    "sold": 24,
-    "totalSeats": 136,
-    "venues": 1,
-    "cities": 1,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 17.65,
-    "City_details": [
-      {
-        "city": "Changaramkulam",
-        "state": "Kerala",
-        "venues": 1,
-        "shows": 1,
-        "gross": 4000.0,
-        "sold": 24,
-        "totalSeats": 136,
-        "fastfilling": 0,
-        "housefull": 0,
-        "occupancy": 17.65
-      }
-    ],
-    "Language_details": [
-      {
-        "language": "Malayalam",
-        "venues": 1,
-        "shows": 1,
-        "gross": 4000.0,
-        "sold": 24,
-        "totalSeats": 136,
-        "fastfilling": 0,
-        "housefull": 0,
-        "occupancy": 17.65
-      }
-    ],
-    "Format_details": [
-      {
-        "dimension": "2D",
-        "venues": 1,
-        "shows": 1,
-        "gross": 4000.0,
-        "sold": 24,
-        "totalSeats": 136,
-        "fastfilling": 0,
-        "housefull": 0,
-        "occupancy": 17.65
+        "occupancy": 4.32
       }
     ]
   },
@@ -2025,117 +1209,231 @@
       }
     ]
   },
-  "Nilave": {
-    "shows": 2,
-    "gross": 13275.0,
-    "sold": 75,
-    "totalSeats": 284,
-    "venues": 2,
+  "Wuthering Heights": {
+    "shows": 3,
+    "gross": 4248.0,
+    "sold": 24,
+    "totalSeats": 480,
+    "venues": 3,
     "cities": 2,
     "fastfilling": 0,
     "housefull": 0,
-    "occupancy": 26.41,
+    "occupancy": 5.0,
     "City_details": [
       {
         "city": "Vizag",
         "state": "Andhra Pradesh",
-        "venues": 1,
-        "shows": 1,
-        "gross": 6726.0,
-        "sold": 38,
-        "totalSeats": 134,
+        "venues": 2,
+        "shows": 2,
+        "gross": 4071.0,
+        "sold": 23,
+        "totalSeats": 298,
         "fastfilling": 0,
         "housefull": 0,
-        "occupancy": 28.36
+        "occupancy": 7.72
       },
       {
         "city": "Vizag (Visakhapatnam)",
         "state": "Andhra Pradesh",
         "venues": 1,
         "shows": 1,
-        "gross": 6549.0,
-        "sold": 37,
-        "totalSeats": 150,
+        "gross": 177.0,
+        "sold": 1,
+        "totalSeats": 182,
         "fastfilling": 0,
         "housefull": 0,
-        "occupancy": 24.67
+        "occupancy": 0.55
       }
     ],
     "Language_details": [
       {
-        "language": "Telugu",
-        "venues": 2,
-        "shows": 2,
-        "gross": 13275.0,
-        "sold": 75,
-        "totalSeats": 284,
+        "language": "English",
+        "venues": 3,
+        "shows": 3,
+        "gross": 4248.0,
+        "sold": 24,
+        "totalSeats": 480,
         "fastfilling": 0,
         "housefull": 0,
-        "occupancy": 26.41
+        "occupancy": 5.0
       }
     ],
     "Format_details": [
       {
         "dimension": "2D",
-        "venues": 2,
-        "shows": 2,
-        "gross": 13275.0,
-        "sold": 75,
-        "totalSeats": 284,
+        "venues": 3,
+        "shows": 3,
+        "gross": 4248.0,
+        "sold": 24,
+        "totalSeats": 480,
         "fastfilling": 0,
         "housefull": 0,
-        "occupancy": 26.41
+        "occupancy": 5.0
       }
     ]
   },
-  "Mana Shankara Vara Prasad Garu": {
-    "shows": 2,
-    "gross": 6265.0,
-    "sold": 43,
-    "totalSeats": 964,
-    "venues": 2,
-    "cities": 1,
-    "fastfilling": 0,
+  "Couple Friendly": {
+    "shows": 4,
+    "gross": 49737.0,
+    "sold": 281,
+    "totalSeats": 690,
+    "venues": 4,
+    "cities": 2,
+    "fastfilling": 1,
     "housefull": 0,
-    "occupancy": 4.46,
+    "occupancy": 40.72,
     "City_details": [
+      {
+        "city": "Vizag",
+        "state": "Andhra Pradesh",
+        "venues": 2,
+        "shows": 2,
+        "gross": 30798.0,
+        "sold": 174,
+        "totalSeats": 313,
+        "fastfilling": 1,
+        "housefull": 0,
+        "occupancy": 55.59
+      },
       {
         "city": "Vizag (Visakhapatnam)",
         "state": "Andhra Pradesh",
         "venues": 2,
         "shows": 2,
-        "gross": 6265.0,
-        "sold": 43,
-        "totalSeats": 964,
+        "gross": 18939.0,
+        "sold": 107,
+        "totalSeats": 377,
         "fastfilling": 0,
         "housefull": 0,
-        "occupancy": 4.46
+        "occupancy": 28.38
       }
     ],
     "Language_details": [
       {
         "language": "Telugu",
-        "venues": 2,
-        "shows": 2,
-        "gross": 6265.0,
-        "sold": 43,
-        "totalSeats": 964,
-        "fastfilling": 0,
+        "venues": 4,
+        "shows": 4,
+        "gross": 49737.0,
+        "sold": 281,
+        "totalSeats": 690,
+        "fastfilling": 1,
         "housefull": 0,
-        "occupancy": 4.46
+        "occupancy": 40.72
       }
     ],
     "Format_details": [
       {
         "dimension": "2D",
-        "venues": 2,
-        "shows": 2,
-        "gross": 6265.0,
-        "sold": 43,
-        "totalSeats": 964,
+        "venues": 4,
+        "shows": 4,
+        "gross": 49737.0,
+        "sold": 281,
+        "totalSeats": 690,
+        "fastfilling": 1,
+        "housefull": 0,
+        "occupancy": 40.72
+      }
+    ]
+  },
+  "Seetha Payanam": {
+    "shows": 1,
+    "gross": 7257.0,
+    "sold": 41,
+    "totalSeats": 236,
+    "venues": 1,
+    "cities": 1,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 17.37,
+    "City_details": [
+      {
+        "city": "Vizag",
+        "state": "Andhra Pradesh",
+        "venues": 1,
+        "shows": 1,
+        "gross": 7257.0,
+        "sold": 41,
+        "totalSeats": 236,
         "fastfilling": 0,
         "housefull": 0,
-        "occupancy": 4.46
+        "occupancy": 17.37
+      }
+    ],
+    "Language_details": [
+      {
+        "language": "Telugu",
+        "venues": 1,
+        "shows": 1,
+        "gross": 7257.0,
+        "sold": 41,
+        "totalSeats": 236,
+        "fastfilling": 0,
+        "housefull": 0,
+        "occupancy": 17.37
+      }
+    ],
+    "Format_details": [
+      {
+        "dimension": "2D",
+        "venues": 1,
+        "shows": 1,
+        "gross": 7257.0,
+        "sold": 41,
+        "totalSeats": 236,
+        "fastfilling": 0,
+        "housefull": 0,
+        "occupancy": 17.37
+      }
+    ]
+  },
+  "Mana Shankara Vara Prasad Garu": {
+    "shows": 1,
+    "gross": 6265.0,
+    "sold": 43,
+    "totalSeats": 580,
+    "venues": 1,
+    "cities": 1,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 7.41,
+    "City_details": [
+      {
+        "city": "Vizag (Visakhapatnam)",
+        "state": "Andhra Pradesh",
+        "venues": 1,
+        "shows": 1,
+        "gross": 6265.0,
+        "sold": 43,
+        "totalSeats": 580,
+        "fastfilling": 0,
+        "housefull": 0,
+        "occupancy": 7.41
+      }
+    ],
+    "Language_details": [
+      {
+        "language": "Telugu",
+        "venues": 1,
+        "shows": 1,
+        "gross": 6265.0,
+        "sold": 43,
+        "totalSeats": 580,
+        "fastfilling": 0,
+        "housefull": 0,
+        "occupancy": 7.41
+      }
+    ],
+    "Format_details": [
+      {
+        "dimension": "2D",
+        "venues": 1,
+        "shows": 1,
+        "gross": 6265.0,
+        "sold": 43,
+        "totalSeats": 580,
+        "fastfilling": 0,
+        "housefull": 0,
+        "occupancy": 7.41
       }
     ]
   }
