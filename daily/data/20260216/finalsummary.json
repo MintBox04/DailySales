@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-16 02:25 IST",
+  "last_updated": "2026-02-16 02:41 IST",
   "movies": {
     "Akhanda 2: Thaandavam": {
       "shows": 1,
@@ -54,26 +54,26 @@
     },
     "Couple Friendly": {
       "shows": 1,
-      "gross": 0.0,
-      "sold": 0,
+      "gross": 2000.0,
+      "sold": 20,
       "totalSeats": 236,
       "venues": 1,
       "cities": 1,
       "fastfilling": 0,
       "housefull": 0,
-      "occupancy": 0.0,
+      "occupancy": 8.47,
       "City_details": [
         {
           "city": "Dharmavaram",
           "state": "Andhra Pradesh",
           "venues": 1,
           "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
+          "gross": 2000.0,
+          "sold": 20,
           "totalSeats": 236,
           "fastfilling": 0,
           "housefull": 0,
-          "occupancy": 0.0
+          "occupancy": 8.47
         }
       ],
       "Language_details": [
@@ -81,9 +81,60 @@
           "language": "TELUGU",
           "venues": 1,
           "shows": 1,
+          "gross": 2000.0,
+          "sold": 20,
+          "totalSeats": 236,
+          "fastfilling": 0,
+          "housefull": 0,
+          "occupancy": 8.47
+        }
+      ],
+      "Format_details": [
+        {
+          "dimension": "2D",
+          "venues": 1,
+          "shows": 1,
+          "gross": 2000.0,
+          "sold": 20,
+          "totalSeats": 236,
+          "fastfilling": 0,
+          "housefull": 0,
+          "occupancy": 8.47
+        }
+      ]
+    },
+    "DSP Dev 2": {
+      "shows": 1,
+      "gross": 0.0,
+      "sold": 0,
+      "totalSeats": 173,
+      "venues": 1,
+      "cities": 1,
+      "fastfilling": 0,
+      "housefull": 0,
+      "occupancy": 0.0,
+      "City_details": [
+        {
+          "city": "Nawanshaher",
+          "state": "Punjab",
+          "venues": 1,
+          "shows": 1,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 236,
+          "totalSeats": 173,
+          "fastfilling": 0,
+          "housefull": 0,
+          "occupancy": 0.0
+        }
+      ],
+      "Language_details": [
+        {
+          "language": "PUNJABI",
+          "venues": 1,
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 173,
           "fastfilling": 0,
           "housefull": 0,
           "occupancy": 0.0
@@ -96,7 +147,58 @@
           "shows": 1,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 236,
+          "totalSeats": 173,
+          "fastfilling": 0,
+          "housefull": 0,
+          "occupancy": 0.0
+        }
+      ]
+    },
+    "Dsp Dev 2": {
+      "shows": 1,
+      "gross": 0.0,
+      "sold": 0,
+      "totalSeats": 173,
+      "venues": 1,
+      "cities": 1,
+      "fastfilling": 0,
+      "housefull": 0,
+      "occupancy": 0.0,
+      "City_details": [
+        {
+          "city": "Nawanshahr",
+          "state": "Punjab",
+          "venues": 1,
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 173,
+          "fastfilling": 0,
+          "housefull": 0,
+          "occupancy": 0.0
+        }
+      ],
+      "Language_details": [
+        {
+          "language": "PUNJABI",
+          "venues": 1,
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 173,
+          "fastfilling": 0,
+          "housefull": 0,
+          "occupancy": 0.0
+        }
+      ],
+      "Format_details": [
+        {
+          "dimension": "2D",
+          "venues": 1,
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 173,
           "fastfilling": 0,
           "housefull": 0,
           "occupancy": 0.0
