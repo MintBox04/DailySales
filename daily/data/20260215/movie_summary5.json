@@ -1,154 +1,315 @@
 {
   "Mardaani 3": {
-    "shows": 1,
-    "gross": 5425.0,
-    "sold": 25,
-    "totalSeats": 384,
-    "venues": 1,
+    "shows": 5,
+    "gross": 11859.0,
+    "sold": 54,
+    "totalSeats": 1052,
+    "venues": 5,
     "cities": 1,
     "fastfilling": 0,
     "housefull": 0,
-    "occupancy": 6.51,
+    "occupancy": 5.13,
     "City_details": [
       {
         "city": "Mumbai",
         "state": "Maharashtra",
-        "venues": 1,
-        "shows": 1,
-        "gross": 5425.0,
-        "sold": 25,
-        "totalSeats": 384,
+        "venues": 5,
+        "shows": 5,
+        "gross": 11859.0,
+        "sold": 54,
+        "totalSeats": 1052,
         "fastfilling": 0,
         "housefull": 0,
-        "occupancy": 6.51
+        "occupancy": 5.13
       }
     ],
     "Language_details": [
       {
         "language": "Hindi",
-        "venues": 1,
-        "shows": 1,
-        "gross": 5425.0,
-        "sold": 25,
-        "totalSeats": 384,
+        "venues": 5,
+        "shows": 5,
+        "gross": 11859.0,
+        "sold": 54,
+        "totalSeats": 1052,
         "fastfilling": 0,
         "housefull": 0,
-        "occupancy": 6.51
+        "occupancy": 5.13
       }
     ],
     "Format_details": [
       {
         "dimension": "2D",
-        "venues": 1,
-        "shows": 1,
-        "gross": 5425.0,
-        "sold": 25,
-        "totalSeats": 384,
+        "venues": 5,
+        "shows": 5,
+        "gross": 11859.0,
+        "sold": 54,
+        "totalSeats": 1052,
         "fastfilling": 0,
         "housefull": 0,
-        "occupancy": 6.51
+        "occupancy": 5.13
       }
     ]
   },
   "O' Romeo": {
-    "shows": 4,
-    "gross": 20954.0,
-    "sold": 128,
-    "totalSeats": 953,
-    "venues": 4,
-    "cities": 1,
-    "fastfilling": 0,
+    "shows": 14,
+    "gross": 51122.0,
+    "sold": 273,
+    "totalSeats": 2584,
+    "venues": 14,
+    "cities": 5,
+    "fastfilling": 1,
     "housefull": 0,
-    "occupancy": 13.43,
+    "occupancy": 10.57,
     "City_details": [
       {
         "city": "Mumbai",
         "state": "Maharashtra",
-        "venues": 4,
-        "shows": 4,
-        "gross": 20954.0,
-        "sold": 128,
-        "totalSeats": 953,
+        "venues": 9,
+        "shows": 9,
+        "gross": 48172.0,
+        "sold": 256,
+        "totalSeats": 1930,
+        "fastfilling": 1,
+        "housefull": 0,
+        "occupancy": 13.26
+      },
+      {
+        "city": "Navi Mumbai",
+        "state": "Maharashtra",
+        "venues": 2,
+        "shows": 2,
+        "gross": 1200.0,
+        "sold": 6,
+        "totalSeats": 279,
         "fastfilling": 0,
         "housefull": 0,
-        "occupancy": 13.43
+        "occupancy": 2.15
+      },
+      {
+        "city": "Kalyan",
+        "state": "Maharashtra",
+        "venues": 1,
+        "shows": 1,
+        "gross": 1750.0,
+        "sold": 11,
+        "totalSeats": 140,
+        "fastfilling": 0,
+        "housefull": 0,
+        "occupancy": 7.86
+      },
+      {
+        "city": "Thane",
+        "state": "Maharashtra",
+        "venues": 1,
+        "shows": 1,
+        "gross": 0.0,
+        "sold": 0,
+        "totalSeats": 66,
+        "fastfilling": 0,
+        "housefull": 0,
+        "occupancy": 0.0
+      },
+      {
+        "city": "Khariar Road",
+        "state": "Odisha",
+        "venues": 1,
+        "shows": 1,
+        "gross": 0.0,
+        "sold": 0,
+        "totalSeats": 169,
+        "fastfilling": 0,
+        "housefull": 0,
+        "occupancy": 0.0
       }
     ],
     "Language_details": [
       {
         "language": "Hindi",
-        "venues": 4,
-        "shows": 4,
-        "gross": 20954.0,
-        "sold": 128,
-        "totalSeats": 953,
-        "fastfilling": 0,
+        "venues": 14,
+        "shows": 14,
+        "gross": 51122.0,
+        "sold": 273,
+        "totalSeats": 2584,
+        "fastfilling": 1,
         "housefull": 0,
-        "occupancy": 13.43
+        "occupancy": 10.57
       }
     ],
     "Format_details": [
       {
         "dimension": "2D",
-        "venues": 4,
-        "shows": 4,
-        "gross": 20954.0,
-        "sold": 128,
-        "totalSeats": 953,
-        "fastfilling": 0,
+        "venues": 14,
+        "shows": 14,
+        "gross": 51122.0,
+        "sold": 273,
+        "totalSeats": 2584,
+        "fastfilling": 1,
         "housefull": 0,
-        "occupancy": 13.43
+        "occupancy": 10.57
       }
     ]
   },
   "Tu Yaa Main": {
+    "shows": 4,
+    "gross": 6162.0,
+    "sold": 25,
+    "totalSeats": 566,
+    "venues": 4,
+    "cities": 1,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 4.42,
+    "City_details": [
+      {
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "venues": 4,
+        "shows": 4,
+        "gross": 6162.0,
+        "sold": 25,
+        "totalSeats": 566,
+        "fastfilling": 0,
+        "housefull": 0,
+        "occupancy": 4.42
+      }
+    ],
+    "Language_details": [
+      {
+        "language": "Hindi",
+        "venues": 4,
+        "shows": 4,
+        "gross": 6162.0,
+        "sold": 25,
+        "totalSeats": 566,
+        "fastfilling": 0,
+        "housefull": 0,
+        "occupancy": 4.42
+      }
+    ],
+    "Format_details": [
+      {
+        "dimension": "2D",
+        "venues": 4,
+        "shows": 4,
+        "gross": 6162.0,
+        "sold": 25,
+        "totalSeats": 566,
+        "fastfilling": 0,
+        "housefull": 0,
+        "occupancy": 4.42
+      }
+    ]
+  },
+  "Crime 101": {
     "shows": 2,
-    "gross": 4126.0,
-    "sold": 37,
-    "totalSeats": 323,
+    "gross": 1780.0,
+    "sold": 7,
+    "totalSeats": 588,
     "venues": 2,
     "cities": 1,
     "fastfilling": 0,
     "housefull": 0,
-    "occupancy": 11.46,
+    "occupancy": 1.19,
     "City_details": [
       {
         "city": "Mumbai",
         "state": "Maharashtra",
         "venues": 2,
         "shows": 2,
-        "gross": 4126.0,
-        "sold": 37,
-        "totalSeats": 323,
+        "gross": 1780.0,
+        "sold": 7,
+        "totalSeats": 588,
         "fastfilling": 0,
         "housefull": 0,
-        "occupancy": 11.46
+        "occupancy": 1.19
       }
     ],
     "Language_details": [
       {
-        "language": "Hindi",
+        "language": "English",
         "venues": 2,
         "shows": 2,
-        "gross": 4126.0,
-        "sold": 37,
-        "totalSeats": 323,
+        "gross": 1780.0,
+        "sold": 7,
+        "totalSeats": 588,
         "fastfilling": 0,
         "housefull": 0,
-        "occupancy": 11.46
+        "occupancy": 1.19
       }
     ],
     "Format_details": [
       {
         "dimension": "2D",
-        "venues": 2,
-        "shows": 2,
-        "gross": 4126.0,
-        "sold": 37,
-        "totalSeats": 323,
+        "venues": 1,
+        "shows": 1,
+        "gross": 760.0,
+        "sold": 3,
+        "totalSeats": 246,
         "fastfilling": 0,
         "housefull": 0,
-        "occupancy": 11.46
+        "occupancy": 1.22
+      },
+      {
+        "dimension": "IMAX 2D",
+        "venues": 1,
+        "shows": 1,
+        "gross": 1020.0,
+        "sold": 4,
+        "totalSeats": 342,
+        "fastfilling": 0,
+        "housefull": 0,
+        "occupancy": 1.17
+      }
+    ]
+  },
+  "Wuthering Heights": {
+    "shows": 1,
+    "gross": 600.0,
+    "sold": 3,
+    "totalSeats": 206,
+    "venues": 1,
+    "cities": 1,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 1.46,
+    "City_details": [
+      {
+        "city": "Navi Mumbai",
+        "state": "Maharashtra",
+        "venues": 1,
+        "shows": 1,
+        "gross": 600.0,
+        "sold": 3,
+        "totalSeats": 206,
+        "fastfilling": 0,
+        "housefull": 0,
+        "occupancy": 1.46
+      }
+    ],
+    "Language_details": [
+      {
+        "language": "English",
+        "venues": 1,
+        "shows": 1,
+        "gross": 600.0,
+        "sold": 3,
+        "totalSeats": 206,
+        "fastfilling": 0,
+        "housefull": 0,
+        "occupancy": 1.46
+      }
+    ],
+    "Format_details": [
+      {
+        "dimension": "2D",
+        "venues": 1,
+        "shows": 1,
+        "gross": 600.0,
+        "sold": 3,
+        "totalSeats": 206,
+        "fastfilling": 0,
+        "housefull": 0,
+        "occupancy": 1.46
       }
     ]
   }
