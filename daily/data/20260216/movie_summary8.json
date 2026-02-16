@@ -1,9 +1,9 @@
 {
-  "O' Romeo": {
+  "Mardaani 3": {
     "shows": 3,
     "gross": 0.0,
     "sold": 0,
-    "totalSeats": 59,
+    "totalSeats": 283,
     "venues": 3,
     "cities": 1,
     "fastfilling": 0,
@@ -17,7 +17,7 @@
         "shows": 3,
         "gross": 0.0,
         "sold": 0,
-        "totalSeats": 59,
+        "totalSeats": 283,
         "fastfilling": 0,
         "housefull": 0,
         "occupancy": 0.0
@@ -30,7 +30,7 @@
         "shows": 3,
         "gross": 0.0,
         "sold": 0,
-        "totalSeats": 59,
+        "totalSeats": 283,
         "fastfilling": 0,
         "housefull": 0,
         "occupancy": 0.0
@@ -43,19 +43,19 @@
         "shows": 3,
         "gross": 0.0,
         "sold": 0,
-        "totalSeats": 59,
+        "totalSeats": 283,
         "fastfilling": 0,
         "housefull": 0,
         "occupancy": 0.0
       }
     ]
   },
-  "Tu Meri Main Tera Main Tera Tu Meri": {
-    "shows": 2,
+  "Border 2": {
+    "shows": 1,
     "gross": 0.0,
     "sold": 0,
-    "totalSeats": 48,
-    "venues": 2,
+    "totalSeats": 50,
+    "venues": 1,
     "cities": 1,
     "fastfilling": 0,
     "housefull": 0,
@@ -64,11 +64,11 @@
       {
         "city": "Ahmedabad",
         "state": "Gujarat",
-        "venues": 2,
-        "shows": 2,
+        "venues": 1,
+        "shows": 1,
         "gross": 0.0,
         "sold": 0,
-        "totalSeats": 48,
+        "totalSeats": 50,
         "fastfilling": 0,
         "housefull": 0,
         "occupancy": 0.0
@@ -77,11 +77,11 @@
     "Language_details": [
       {
         "language": "Hindi",
-        "venues": 2,
-        "shows": 2,
+        "venues": 1,
+        "shows": 1,
         "gross": 0.0,
         "sold": 0,
-        "totalSeats": 48,
+        "totalSeats": 50,
         "fastfilling": 0,
         "housefull": 0,
         "occupancy": 0.0
@@ -90,14 +90,167 @@
     "Format_details": [
       {
         "dimension": "2D",
-        "venues": 2,
-        "shows": 2,
+        "venues": 1,
+        "shows": 1,
         "gross": 0.0,
         "sold": 0,
-        "totalSeats": 48,
+        "totalSeats": 50,
         "fastfilling": 0,
         "housefull": 0,
         "occupancy": 0.0
+      }
+    ]
+  },
+  "O' Romeo": {
+    "shows": 4,
+    "gross": 1800.0,
+    "sold": 6,
+    "totalSeats": 163,
+    "venues": 4,
+    "cities": 1,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 3.68,
+    "City_details": [
+      {
+        "city": "Ahmedabad",
+        "state": "Gujarat",
+        "venues": 4,
+        "shows": 4,
+        "gross": 1800.0,
+        "sold": 6,
+        "totalSeats": 163,
+        "fastfilling": 0,
+        "housefull": 0,
+        "occupancy": 3.68
+      }
+    ],
+    "Language_details": [
+      {
+        "language": "Hindi",
+        "venues": 4,
+        "shows": 4,
+        "gross": 1800.0,
+        "sold": 6,
+        "totalSeats": 163,
+        "fastfilling": 0,
+        "housefull": 0,
+        "occupancy": 3.68
+      }
+    ],
+    "Format_details": [
+      {
+        "dimension": "2D",
+        "venues": 4,
+        "shows": 4,
+        "gross": 1800.0,
+        "sold": 6,
+        "totalSeats": 163,
+        "fastfilling": 0,
+        "housefull": 0,
+        "occupancy": 3.68
+      }
+    ]
+  },
+  "Lagan Laagii Re": {
+    "shows": 1,
+    "gross": 0.0,
+    "sold": 0,
+    "totalSeats": 63,
+    "venues": 1,
+    "cities": 1,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 0.0,
+    "City_details": [
+      {
+        "city": "Ahmedabad",
+        "state": "Gujarat",
+        "venues": 1,
+        "shows": 1,
+        "gross": 0.0,
+        "sold": 0,
+        "totalSeats": 63,
+        "fastfilling": 0,
+        "housefull": 0,
+        "occupancy": 0.0
+      }
+    ],
+    "Language_details": [
+      {
+        "language": "Gujarati",
+        "venues": 1,
+        "shows": 1,
+        "gross": 0.0,
+        "sold": 0,
+        "totalSeats": 63,
+        "fastfilling": 0,
+        "housefull": 0,
+        "occupancy": 0.0
+      }
+    ],
+    "Format_details": [
+      {
+        "dimension": "2D",
+        "venues": 1,
+        "shows": 1,
+        "gross": 0.0,
+        "sold": 0,
+        "totalSeats": 63,
+        "fastfilling": 0,
+        "housefull": 0,
+        "occupancy": 0.0
+      }
+    ]
+  },
+  "Tu Meri Main Tera Main Tera Tu Meri": {
+    "shows": 2,
+    "gross": 1200.0,
+    "sold": 4,
+    "totalSeats": 48,
+    "venues": 2,
+    "cities": 1,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 8.33,
+    "City_details": [
+      {
+        "city": "Ahmedabad",
+        "state": "Gujarat",
+        "venues": 2,
+        "shows": 2,
+        "gross": 1200.0,
+        "sold": 4,
+        "totalSeats": 48,
+        "fastfilling": 0,
+        "housefull": 0,
+        "occupancy": 8.33
+      }
+    ],
+    "Language_details": [
+      {
+        "language": "Hindi",
+        "venues": 2,
+        "shows": 2,
+        "gross": 1200.0,
+        "sold": 4,
+        "totalSeats": 48,
+        "fastfilling": 0,
+        "housefull": 0,
+        "occupancy": 8.33
+      }
+    ],
+    "Format_details": [
+      {
+        "dimension": "2D",
+        "venues": 2,
+        "shows": 2,
+        "gross": 1200.0,
+        "sold": 4,
+        "totalSeats": 48,
+        "fastfilling": 0,
+        "housefull": 0,
+        "occupancy": 8.33
       }
     ]
   }
