@@ -1,4 +1,67 @@
 {
+  "O' Romeo": {
+    "shows": 2,
+    "gross": 680.0,
+    "sold": 2,
+    "totalSeats": 405,
+    "venues": 2,
+    "cities": 2,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 0.49,
+    "City_details": [
+      {
+        "city": "Angul",
+        "state": "Odisha",
+        "venues": 1,
+        "shows": 1,
+        "gross": 0.0,
+        "sold": 0,
+        "totalSeats": 122,
+        "fastfilling": 0,
+        "housefull": 0,
+        "occupancy": 0.0
+      },
+      {
+        "city": "Pune",
+        "state": "Maharashtra",
+        "venues": 1,
+        "shows": 1,
+        "gross": 680.0,
+        "sold": 2,
+        "totalSeats": 283,
+        "fastfilling": 0,
+        "housefull": 0,
+        "occupancy": 0.71
+      }
+    ],
+    "Language_details": [
+      {
+        "language": "Hindi",
+        "venues": 2,
+        "shows": 2,
+        "gross": 680.0,
+        "sold": 2,
+        "totalSeats": 405,
+        "fastfilling": 0,
+        "housefull": 0,
+        "occupancy": 0.49
+      }
+    ],
+    "Format_details": [
+      {
+        "dimension": "2D",
+        "venues": 2,
+        "shows": 2,
+        "gross": 680.0,
+        "sold": 2,
+        "totalSeats": 405,
+        "fastfilling": 0,
+        "housefull": 0,
+        "occupancy": 0.49
+      }
+    ]
+  },
   "Couple Friendly": {
     "shows": 1,
     "gross": 0.0,
@@ -215,28 +278,28 @@
       }
     ]
   },
-  "O' Romeo": {
+  "Border 2": {
     "shows": 1,
-    "gross": 680.0,
-    "sold": 2,
-    "totalSeats": 283,
+    "gross": 0.0,
+    "sold": 0,
+    "totalSeats": 20,
     "venues": 1,
     "cities": 1,
     "fastfilling": 0,
     "housefull": 0,
-    "occupancy": 0.71,
+    "occupancy": 0.0,
     "City_details": [
       {
-        "city": "Pune",
-        "state": "Maharashtra",
+        "city": "Kanpur",
+        "state": "Uttar Pradesh",
         "venues": 1,
         "shows": 1,
-        "gross": 680.0,
-        "sold": 2,
-        "totalSeats": 283,
+        "gross": 0.0,
+        "sold": 0,
+        "totalSeats": 20,
         "fastfilling": 0,
         "housefull": 0,
-        "occupancy": 0.71
+        "occupancy": 0.0
       }
     ],
     "Language_details": [
@@ -244,12 +307,12 @@
         "language": "Hindi",
         "venues": 1,
         "shows": 1,
-        "gross": 680.0,
-        "sold": 2,
-        "totalSeats": 283,
+        "gross": 0.0,
+        "sold": 0,
+        "totalSeats": 20,
         "fastfilling": 0,
         "housefull": 0,
-        "occupancy": 0.71
+        "occupancy": 0.0
       }
     ],
     "Format_details": [
@@ -257,12 +320,12 @@
         "dimension": "2D",
         "venues": 1,
         "shows": 1,
-        "gross": 680.0,
-        "sold": 2,
-        "totalSeats": 283,
+        "gross": 0.0,
+        "sold": 0,
+        "totalSeats": 20,
         "fastfilling": 0,
         "housefull": 0,
-        "occupancy": 0.71
+        "occupancy": 0.0
       }
     ]
   }
