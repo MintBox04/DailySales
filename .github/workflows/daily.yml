@@ -3,8 +3,12 @@ name: Daily Scraper
 on:
   workflow_dispatch:
   schedule:
-    - cron: '20,50 * * * *' # Run at minute 20 and 50 of every hour
-
+      - cron: '7,37 * * * *'
+      
+concurrency:
+  group: daily-scraper
+  cancel-in-progress: false
+  
 jobs:
   run-shard:
     runs-on: ubuntu-latest
@@ -118,3 +122,4 @@ jobs:
           git add daily/data/
           git commit -m "Auto-commit: Combined daily logs" || echo "No changes to commit"
           git push
+
