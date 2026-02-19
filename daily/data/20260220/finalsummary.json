@@ -1,17 +1,155 @@
 {
-  "last_updated": "2026-02-20 03:25 IST",
+  "last_updated": "2026-02-20 05:21 IST",
   "movies": {
-    "Border 2": {
+    "Assi": {
+      "shows": 9,
+      "gross": 2980.0,
+      "sold": 20,
+      "totalSeats": 1749,
+      "venues": 9,
+      "cities": 3,
+      "fastfilling": 0,
+      "housefull": 0,
+      "occupancy": 1.14,
+      "City_details": [
+        {
+          "city": "Ahmedabad",
+          "state": "Gujarat",
+          "venues": 4,
+          "shows": 4,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 96,
+          "fastfilling": 0,
+          "housefull": 0,
+          "occupancy": 0.0
+        },
+        {
+          "city": "Mumbai",
+          "state": "Maharashtra",
+          "venues": 4,
+          "shows": 4,
+          "gross": 2980.0,
+          "sold": 20,
+          "totalSeats": 1440,
+          "fastfilling": 0,
+          "housefull": 0,
+          "occupancy": 1.39
+        },
+        {
+          "city": "Surat",
+          "state": "Gujarat",
+          "venues": 1,
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 213,
+          "fastfilling": 0,
+          "housefull": 0,
+          "occupancy": 0.0
+        }
+      ],
+      "Language_details": [
+        {
+          "language": "HINDI",
+          "venues": 9,
+          "shows": 9,
+          "gross": 2980.0,
+          "sold": 20,
+          "totalSeats": 1749,
+          "fastfilling": 0,
+          "housefull": 0,
+          "occupancy": 1.14
+        }
+      ],
+      "Format_details": [
+        {
+          "dimension": "2D",
+          "venues": 9,
+          "shows": 9,
+          "gross": 2980.0,
+          "sold": 20,
+          "totalSeats": 1749,
+          "fastfilling": 0,
+          "housefull": 0,
+          "occupancy": 1.14
+        }
+      ]
+    },
+    "Bambukat 2": {
       "shows": 1,
       "gross": 0.0,
       "sold": 0,
-      "totalSeats": 118,
+      "totalSeats": 145,
       "venues": 1,
       "cities": 1,
       "fastfilling": 0,
       "housefull": 0,
       "occupancy": 0.0,
       "City_details": [
+        {
+          "city": "Palampur",
+          "state": "Himachal Pradesh",
+          "venues": 1,
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 145,
+          "fastfilling": 0,
+          "housefull": 0,
+          "occupancy": 0.0
+        }
+      ],
+      "Language_details": [
+        {
+          "language": "PUNJABI",
+          "venues": 1,
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 145,
+          "fastfilling": 0,
+          "housefull": 0,
+          "occupancy": 0.0
+        }
+      ],
+      "Format_details": [
+        {
+          "dimension": "2D",
+          "venues": 1,
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 145,
+          "fastfilling": 0,
+          "housefull": 0,
+          "occupancy": 0.0
+        }
+      ]
+    },
+    "Border 2": {
+      "shows": 2,
+      "gross": 0.0,
+      "sold": 0,
+      "totalSeats": 218,
+      "venues": 2,
+      "cities": 2,
+      "fastfilling": 0,
+      "housefull": 0,
+      "occupancy": 0.0,
+      "City_details": [
+        {
+          "city": "Charkhi Dadri",
+          "state": "Haryana",
+          "venues": 1,
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 100,
+          "fastfilling": 0,
+          "housefull": 0,
+          "occupancy": 0.0
+        },
         {
           "city": "Rourkela",
           "state": "Odisha",
@@ -28,11 +166,338 @@
       "Language_details": [
         {
           "language": "HINDI",
+          "venues": 2,
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 218,
+          "fastfilling": 0,
+          "housefull": 0,
+          "occupancy": 0.0
+        }
+      ],
+      "Format_details": [
+        {
+          "dimension": "2D",
+          "venues": 2,
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 218,
+          "fastfilling": 0,
+          "housefull": 0,
+          "occupancy": 0.0
+        }
+      ]
+    },
+    "Do Deewane Seher Mein": {
+      "shows": 8,
+      "gross": 0.0,
+      "sold": 0,
+      "totalSeats": 559,
+      "venues": 8,
+      "cities": 4,
+      "fastfilling": 0,
+      "housefull": 0,
+      "occupancy": 0.0,
+      "City_details": [
+        {
+          "city": "Ahilyanagar (Ahmednagar)",
+          "state": "Maharashtra",
           "venues": 1,
           "shows": 1,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 118,
+          "totalSeats": 82,
+          "fastfilling": 0,
+          "housefull": 0,
+          "occupancy": 0.0
+        },
+        {
+          "city": "Ahmedabad",
+          "state": "Gujarat",
+          "venues": 5,
+          "shows": 5,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 108,
+          "fastfilling": 0,
+          "housefull": 0,
+          "occupancy": 0.0
+        },
+        {
+          "city": "Jamshedpur",
+          "state": "Jharkhand",
+          "venues": 1,
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 114,
+          "fastfilling": 0,
+          "housefull": 0,
+          "occupancy": 0.0
+        },
+        {
+          "city": "Mumbai",
+          "state": "Maharashtra",
+          "venues": 1,
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 255,
+          "fastfilling": 0,
+          "housefull": 0,
+          "occupancy": 0.0
+        }
+      ],
+      "Language_details": [
+        {
+          "language": "HINDI",
+          "venues": 8,
+          "shows": 8,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 559,
+          "fastfilling": 0,
+          "housefull": 0,
+          "occupancy": 0.0
+        }
+      ],
+      "Format_details": [
+        {
+          "dimension": "2D",
+          "venues": 8,
+          "shows": 8,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 559,
+          "fastfilling": 0,
+          "housefull": 0,
+          "occupancy": 0.0
+        }
+      ]
+    },
+    "O' Romeo": {
+      "shows": 5,
+      "gross": 27089.0,
+      "sold": 133,
+      "totalSeats": 970,
+      "venues": 4,
+      "cities": 3,
+      "fastfilling": 0,
+      "housefull": 1,
+      "occupancy": 13.71,
+      "City_details": [
+        {
+          "city": "Ahilyanagar (Ahmednagar)",
+          "state": "Maharashtra",
+          "venues": 1,
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 109,
+          "fastfilling": 0,
+          "housefull": 0,
+          "occupancy": 0.0
+        },
+        {
+          "city": "Chhatrapati Sambhajinagar (Aurangabad)",
+          "state": "Maharashtra",
+          "venues": 1,
+          "shows": 1,
+          "gross": 18040.0,
+          "sold": 82,
+          "totalSeats": 82,
+          "fastfilling": 0,
+          "housefull": 1,
+          "occupancy": 100.0
+        },
+        {
+          "city": "Mumbai",
+          "state": "Maharashtra",
+          "venues": 2,
+          "shows": 3,
+          "gross": 9049.0,
+          "sold": 51,
+          "totalSeats": 779,
+          "fastfilling": 0,
+          "housefull": 0,
+          "occupancy": 6.55
+        }
+      ],
+      "Language_details": [
+        {
+          "language": "HINDI",
+          "venues": 4,
+          "shows": 5,
+          "gross": 27089.0,
+          "sold": 133,
+          "totalSeats": 970,
+          "fastfilling": 0,
+          "housefull": 1,
+          "occupancy": 13.71
+        }
+      ],
+      "Format_details": [
+        {
+          "dimension": "2D",
+          "venues": 4,
+          "shows": 5,
+          "gross": 27089.0,
+          "sold": 133,
+          "totalSeats": 970,
+          "fastfilling": 0,
+          "housefull": 1,
+          "occupancy": 13.71
+        }
+      ]
+    },
+    "O'Romeo": {
+      "shows": 2,
+      "gross": 0.0,
+      "sold": 0,
+      "totalSeats": 596,
+      "venues": 1,
+      "cities": 1,
+      "fastfilling": 0,
+      "housefull": 0,
+      "occupancy": 0.0,
+      "City_details": [
+        {
+          "city": "Mumbai",
+          "state": "Maharashtra",
+          "venues": 1,
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 596,
+          "fastfilling": 0,
+          "housefull": 0,
+          "occupancy": 0.0
+        }
+      ],
+      "Language_details": [
+        {
+          "language": "HINDI",
+          "venues": 1,
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 596,
+          "fastfilling": 0,
+          "housefull": 0,
+          "occupancy": 0.0
+        }
+      ],
+      "Format_details": [
+        {
+          "dimension": "2D",
+          "venues": 1,
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 596,
+          "fastfilling": 0,
+          "housefull": 0,
+          "occupancy": 0.0
+        }
+      ]
+    },
+    "Shatak": {
+      "shows": 2,
+      "gross": 0.0,
+      "sold": 0,
+      "totalSeats": 427,
+      "venues": 2,
+      "cities": 2,
+      "fastfilling": 0,
+      "housefull": 0,
+      "occupancy": 0.0,
+      "City_details": [
+        {
+          "city": "Jalandhar",
+          "state": "Punjab",
+          "venues": 1,
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 313,
+          "fastfilling": 0,
+          "housefull": 0,
+          "occupancy": 0.0
+        },
+        {
+          "city": "Mumbai",
+          "state": "Maharashtra",
+          "venues": 1,
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 114,
+          "fastfilling": 0,
+          "housefull": 0,
+          "occupancy": 0.0
+        }
+      ],
+      "Language_details": [
+        {
+          "language": "HINDI",
+          "venues": 2,
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 427,
+          "fastfilling": 0,
+          "housefull": 0,
+          "occupancy": 0.0
+        }
+      ],
+      "Format_details": [
+        {
+          "dimension": "2D",
+          "venues": 2,
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 427,
+          "fastfilling": 0,
+          "housefull": 0,
+          "occupancy": 0.0
+        }
+      ]
+    },
+    "Shatak: Sangh Ke 100 Varsh": {
+      "shows": 1,
+      "gross": 0.0,
+      "sold": 0,
+      "totalSeats": 114,
+      "venues": 1,
+      "cities": 1,
+      "fastfilling": 0,
+      "housefull": 0,
+      "occupancy": 0.0,
+      "City_details": [
+        {
+          "city": "Mumbai",
+          "state": "Maharashtra",
+          "venues": 1,
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 114,
+          "fastfilling": 0,
+          "housefull": 0,
+          "occupancy": 0.0
+        }
+      ],
+      "Language_details": [
+        {
+          "language": "HINDI",
+          "venues": 1,
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 114,
           "fastfilling": 0,
           "housefull": 0,
           "occupancy": 0.0
@@ -45,7 +510,70 @@
           "shows": 1,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 118,
+          "totalSeats": 114,
+          "fastfilling": 0,
+          "housefull": 0,
+          "occupancy": 0.0
+        }
+      ]
+    },
+    "Tu Meri Main Tera Main Tera Tu Meri": {
+      "shows": 4,
+      "gross": 0.0,
+      "sold": 0,
+      "totalSeats": 62,
+      "venues": 4,
+      "cities": 2,
+      "fastfilling": 0,
+      "housefull": 0,
+      "occupancy": 0.0,
+      "City_details": [
+        {
+          "city": "Ahmedabad",
+          "state": "Gujarat",
+          "venues": 3,
+          "shows": 3,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 42,
+          "fastfilling": 0,
+          "housefull": 0,
+          "occupancy": 0.0
+        },
+        {
+          "city": "Kanpur",
+          "state": "Uttar Pradesh",
+          "venues": 1,
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 20,
+          "fastfilling": 0,
+          "housefull": 0,
+          "occupancy": 0.0
+        }
+      ],
+      "Language_details": [
+        {
+          "language": "HINDI",
+          "venues": 4,
+          "shows": 4,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 62,
+          "fastfilling": 0,
+          "housefull": 0,
+          "occupancy": 0.0
+        }
+      ],
+      "Format_details": [
+        {
+          "dimension": "2D",
+          "venues": 4,
+          "shows": 4,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 62,
           "fastfilling": 0,
           "housefull": 0,
           "occupancy": 0.0
