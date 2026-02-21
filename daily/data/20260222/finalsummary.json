@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-02-22 01:31 IST",
+  "last_updated": "2026-02-22 02:17 IST",
   "movies": {
     "Maarnami": {
       "shows": 1,
-      "gross": 2080.0,
-      "sold": 8,
-      "totalSeats": 179,
+      "gross": 0.0,
+      "sold": 0,
+      "totalSeats": 171,
       "venues": 1,
       "cities": 1,
       "fastfilling": 0,
       "housefull": 0,
-      "occupancy": 4.47,
+      "occupancy": 0.0,
       "City_details": [
         {
           "city": "Bengaluru",
           "state": "Karnataka",
           "venues": 1,
           "shows": 1,
-          "gross": 2080.0,
-          "sold": 8,
-          "totalSeats": 179,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 171,
           "fastfilling": 0,
           "housefull": 0,
-          "occupancy": 4.47
+          "occupancy": 0.0
         }
       ],
       "Language_details": [
@@ -30,12 +30,12 @@
           "language": "KANNADA",
           "venues": 1,
           "shows": 1,
-          "gross": 2080.0,
-          "sold": 8,
-          "totalSeats": 179,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 171,
           "fastfilling": 0,
           "housefull": 0,
-          "occupancy": 4.47
+          "occupancy": 0.0
         }
       ],
       "Format_details": [
@@ -43,12 +43,12 @@
           "dimension": "2D",
           "venues": 1,
           "shows": 1,
-          "gross": 2080.0,
-          "sold": 8,
-          "totalSeats": 179,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 171,
           "fastfilling": 0,
           "housefull": 0,
-          "occupancy": 4.47
+          "occupancy": 0.0
         }
       ]
     },
@@ -100,6 +100,57 @@
           "fastfilling": 0,
           "housefull": 0,
           "occupancy": 0.0
+        }
+      ]
+    },
+    "Operation Padma": {
+      "shows": 1,
+      "gross": 20000.0,
+      "sold": 400,
+      "totalSeats": 478,
+      "venues": 1,
+      "cities": 1,
+      "fastfilling": 1,
+      "housefull": 0,
+      "occupancy": 83.68,
+      "City_details": [
+        {
+          "city": "Vizag",
+          "state": "Andhra Pradesh",
+          "venues": 1,
+          "shows": 1,
+          "gross": 20000.0,
+          "sold": 400,
+          "totalSeats": 478,
+          "fastfilling": 1,
+          "housefull": 0,
+          "occupancy": 83.68
+        }
+      ],
+      "Language_details": [
+        {
+          "language": "TELUGU",
+          "venues": 1,
+          "shows": 1,
+          "gross": 20000.0,
+          "sold": 400,
+          "totalSeats": 478,
+          "fastfilling": 1,
+          "housefull": 0,
+          "occupancy": 83.68
+        }
+      ],
+      "Format_details": [
+        {
+          "dimension": "2D",
+          "venues": 1,
+          "shows": 1,
+          "gross": 20000.0,
+          "sold": 400,
+          "totalSeats": 478,
+          "fastfilling": 1,
+          "housefull": 0,
+          "occupancy": 83.68
         }
       ]
     }
