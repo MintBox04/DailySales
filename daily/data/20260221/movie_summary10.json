@@ -1,15 +1,27 @@
 {
   "With Love": {
     "shows": 343,
-    "gross": 2852285.84,
-    "sold": 24448,
+    "gross": 2879592.64,
+    "sold": 24635,
     "totalSeats": 129195,
     "venues": 100,
     "cities": 65,
-    "fastfilling": 26,
+    "fastfilling": 28,
     "housefull": 0,
-    "occupancy": 18.92,
+    "occupancy": 19.07,
     "City_details": [
+      {
+        "city": "Chennai",
+        "state": "tamil-nadu",
+        "venues": 21,
+        "shows": 81,
+        "gross": 902394.64,
+        "sold": 7011,
+        "totalSeats": 32238,
+        "fastfilling": 11,
+        "housefull": 0,
+        "occupancy": 21.75
+      },
       {
         "city": "Tuticorin",
         "state": "tamil-nadu",
@@ -21,18 +33,6 @@
         "fastfilling": 0,
         "housefull": 0,
         "occupancy": 9.18
-      },
-      {
-        "city": "Chennai",
-        "state": "tamil-nadu",
-        "venues": 21,
-        "shows": 81,
-        "gross": 875087.84,
-        "sold": 6824,
-        "totalSeats": 32238,
-        "fastfilling": 9,
-        "housefull": 0,
-        "occupancy": 21.17
       },
       {
         "city": "Thiruvallur",
@@ -796,12 +796,12 @@
         "language": "Tamil",
         "venues": 98,
         "shows": 335,
-        "gross": 2780187.84,
-        "sold": 24036,
+        "gross": 2807494.64,
+        "sold": 24223,
         "totalSeats": 127339,
-        "fastfilling": 26,
+        "fastfilling": 28,
         "housefull": 0,
-        "occupancy": 18.88
+        "occupancy": 19.02
       },
       {
         "language": "Telugu",
@@ -820,26 +820,38 @@
         "dimension": "2D",
         "venues": 100,
         "shows": 343,
-        "gross": 2852285.84,
-        "sold": 24448,
+        "gross": 2879592.64,
+        "sold": 24635,
         "totalSeats": 129195,
-        "fastfilling": 26,
+        "fastfilling": 28,
         "housefull": 0,
-        "occupancy": 18.92
+        "occupancy": 19.07
       }
     ]
   },
   "Ghilli": {
     "shows": 311,
-    "gross": 3048588.2,
-    "sold": 26887,
+    "gross": 3065176.6,
+    "sold": 27019,
     "totalSeats": 135675,
     "venues": 93,
     "cities": 54,
-    "fastfilling": 20,
+    "fastfilling": 21,
     "housefull": 7,
-    "occupancy": 19.82,
+    "occupancy": 19.91,
     "City_details": [
+      {
+        "city": "Chennai",
+        "state": "tamil-nadu",
+        "venues": 24,
+        "shows": 84,
+        "gross": 1300362.6,
+        "sold": 11139,
+        "totalSeats": 39643,
+        "fastfilling": 6,
+        "housefull": 7,
+        "occupancy": 28.1
+      },
       {
         "city": "Tuticorin",
         "state": "tamil-nadu",
@@ -851,18 +863,6 @@
         "fastfilling": 1,
         "housefull": 0,
         "occupancy": 22.6
-      },
-      {
-        "city": "Chennai",
-        "state": "tamil-nadu",
-        "venues": 24,
-        "shows": 84,
-        "gross": 1283774.2,
-        "sold": 11007,
-        "totalSeats": 39643,
-        "fastfilling": 5,
-        "housefull": 7,
-        "occupancy": 27.77
       },
       {
         "city": "Thiruvallur",
@@ -1494,12 +1494,12 @@
         "language": "Tamil",
         "venues": 93,
         "shows": 311,
-        "gross": 3048588.2,
-        "sold": 26887,
+        "gross": 3065176.6,
+        "sold": 27019,
         "totalSeats": 135675,
-        "fastfilling": 20,
+        "fastfilling": 21,
         "housefull": 7,
-        "occupancy": 19.82
+        "occupancy": 19.91
       }
     ],
     "Format_details": [
@@ -1507,12 +1507,12 @@
         "dimension": "2D",
         "venues": 93,
         "shows": 311,
-        "gross": 3048588.2,
-        "sold": 26887,
+        "gross": 3065176.6,
+        "sold": 27019,
         "totalSeats": 135675,
-        "fastfilling": 20,
+        "fastfilling": 21,
         "housefull": 7,
-        "occupancy": 19.82
+        "occupancy": 19.91
       }
     ]
   },
