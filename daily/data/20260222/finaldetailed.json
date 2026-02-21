@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-22 00:31 IST",
+  "last_updated": "2026-02-22 01:14 IST",
   "data": [
     {
       "movie": "Maarnami",
@@ -11,17 +11,39 @@
       "time": "01:25 AM",
       "audi": "AUDI 05",
       "session_id": "22170",
-      "totalSeats": 179,
+      "totalSeats": 171,
       "available": 171,
-      "sold": 8,
-      "gross": 2080.0,
+      "sold": 0,
+      "gross": 0.0,
       "city": "Bengaluru",
       "state": "Karnataka",
       "source": "BMS",
       "date": "20260222",
-      "minutes_left": 54.5,
+      "minutes_left": 12.0,
       "_city_key": "bengaluru",
       "_state_key": "karnataka"
+    },
+    {
+      "movie": "Mardaani 3",
+      "venue": "LHD Cinemas: Chandkheda",
+      "address": "5th Floor,Sai Sapphire Square, BRTS Zundal Chandkheda, Opposite Indian Oil Petrol Pump, Ahmedabad, Gujarat 382424, India",
+      "language": "HINDI",
+      "dimension": "2D",
+      "chain": "LHD Cinemas LLP",
+      "time": "02:30 AM",
+      "audi": "Audi 4",
+      "session_id": "138056",
+      "totalSeats": 100,
+      "available": 100,
+      "sold": 0,
+      "gross": 0.0,
+      "city": "Ahmedabad",
+      "state": "Gujarat",
+      "source": "BMS",
+      "date": "20260222",
+      "minutes_left": 76.1,
+      "_city_key": "ahmedabad",
+      "_state_key": "gujarat"
     }
   ]
 }
